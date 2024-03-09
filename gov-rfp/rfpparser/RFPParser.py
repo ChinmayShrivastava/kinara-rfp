@@ -1,4 +1,4 @@
-from PDFParser import PDFParser
+from .PDFParser import PDFParser
 
 class RFPParser(PDFParser):
     def __init__(

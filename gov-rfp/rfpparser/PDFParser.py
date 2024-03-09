@@ -18,6 +18,9 @@ class PDFParser:
         self.file_name = self.pdf_path.split('/')[-1]
         self._chunks = None
         self.nodes = None
+        self.splitter = None
+        self.reader = None
+        self.documents = None
         # log
         self.logger.info(f"PDFParser for {self.pdf_path}")
 
@@ -33,10 +36,10 @@ class PDFParser:
             ):
         from llama_index.core import SimpleDirectoryReader
         from llama_index.core.node_parser import SentenceSplitter
-        reader = SimpleDirectoryReader(input_files=[self.pdf_path])
-        documents = reader.load_data()
-        splitter = SentenceSplitter(chunk_size=chunk_size, paragraph_separator=paragraph_separator, chunk_overlap=chunk_overlap)
-        self.nodes = splitter.get_nodes_from_documents(documents)
+        self.reader = SimpleDirectoryReader(input_files=[self.pdf_path])
+        self.documents = self.reader.load_data()
+        self.splitter = SentenceSplitter(chunk_size=chunk_size, paragraph_separator=paragraph_separator, chunk_overlap=chunk_overlap)
+        self.nodes = self.splitter.get_nodes_from_documents(self.documents)
         # self.chunks = [x.text for x in nodes]
         self._chunks = [
             {
