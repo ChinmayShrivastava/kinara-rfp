@@ -10,14 +10,16 @@ class PDFParser:
             ):
         self.verbose = verbose
         if self.verbose:
-            logger = logging.getLogger()
+            self.logger = logging.getLogger()
         else:
-            logger = logging.getLogger()
-            logger.disabled = True
+            self.logger = logging.getLogger()
+            self.logger.disabled = True
         self.pdf_path = pdf_path
         self.file_name = self.pdf_path.split('/')[-1]
+        self._chunks = None
+        self.nodes = None
         # log
-        logger.info(f"PDFParser for {self.pdf_path}")
+        self.logger.info(f"PDFParser for {self.pdf_path}")
 
     def __str__(self) -> str:
         _str = f"PDFParser for {self.pdf_path}"
@@ -29,14 +31,14 @@ class PDFParser:
             paragraph_separator: str = '\n\n',
             chunk_overlap: int = 128,
             ):
-        from llama_index import SimpleDirectoryReader
+        from llama_index.core import SimpleDirectoryReader
         from llama_index.core.node_parser import SentenceSplitter
         reader = SimpleDirectoryReader(input_files=[self.pdf_path])
         documents = reader.load_data()
         splitter = SentenceSplitter(chunk_size=chunk_size, paragraph_separator=paragraph_separator, chunk_overlap=chunk_overlap)
-        nodes = splitter.get_nodes_from_documents(documents)
+        self.nodes = splitter.get_nodes_from_documents(documents)
         # self.chunks = [x.text for x in nodes]
-        self.chunks = [
+        self._chunks = [
             {
                 "text": x.text,
                 "metadata": {
@@ -44,9 +46,13 @@ class PDFParser:
                     "file_type": x.metadata["file_type"],
                     "chunk_no": i,
                 }
-            } for i, x in enumerate(nodes)
+            } for i, x in enumerate(self.nodes)
         ]
-        return self.chunks
+        # log
+        self.logger.info(f"Got {len(self._chunks)} chunks")
+        return self._chunks
     
-    def get_chunks(self):
-        return self._get_chunks()
+    def chunks(self):
+        if not self._chunks:
+            self._get_chunks()
+        return self._chunks
