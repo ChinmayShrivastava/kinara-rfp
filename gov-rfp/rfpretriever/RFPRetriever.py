@@ -29,15 +29,15 @@ class RFPRetriever(RFPParser):
         self.chroma_retriever = self.chroma_index.as_retriever()
         print(self.chroma_index.docstore.__dict__['_kvstore'].__dict__)
         self.bm25_retriever = BM25Retriever.from_defaults(
-            docstore=self.chroma_index.docstore, similarity_top_k=10
+            nodes=self.nodes, similarity_top_k=10
         )
         self.retriever = QueryFusionRetriever(
-            [self.chroma_retriever, self.bm25_retriever],
+            [self.chroma_retriever],
             retriever_weights=[0.6, 0.4],
             similarity_top_k=10,
             num_queries=1,  # set this to 1 to disable query generation
             mode="relative_score",
-            use_async=True,
+            use_async=False,
             verbose=True,
         )
 
