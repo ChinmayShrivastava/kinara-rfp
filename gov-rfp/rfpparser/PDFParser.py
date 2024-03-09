@@ -30,9 +30,9 @@ class PDFParser:
     
     def _get_chunks(
             self,
-            chunk_size: int = 512,
+            chunk_size: int = 256,
             paragraph_separator: str = '\n\n',
-            chunk_overlap: int = 128,
+            chunk_overlap: int = 64,
             ):
         from llama_index.core import SimpleDirectoryReader
         from llama_index.core.node_parser import SentenceSplitter
