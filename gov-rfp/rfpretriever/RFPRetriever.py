@@ -34,7 +34,7 @@ class RFPRetriever(RFPParser):
         self.retriever = QueryFusionRetriever(
             [self.chroma_retriever],
             retriever_weights=[1],
-            similarity_top_k=30,
+            similarity_top_k=10,
             num_queries=3,  # set this to 1 to disable query generation
             mode="relative_score",
             use_async=False,
