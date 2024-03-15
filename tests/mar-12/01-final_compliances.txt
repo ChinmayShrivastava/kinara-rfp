@@ -1,0 +1,425 @@
+- Deadline: 08/31/2023 1700 ET
+- Offer due date: 08/31/2023 1700 ET
+- Submit invoices to address shown in block 18a
+- Delivery for FOB destination unless block is marked
+- Indefinite Delivery Indefinite Quantity (IDIQ) contract for On Demand Coaching Services for the Treasury Executive Institute
+- Period of Performance: 9/30/2023 - 9/29/2027
+- One (1) 12-month base period, plus three (3) 12-month option periods
+- The offer must be submitted on Standard Form 1449 (REV. 2/2012)
+- The contractor is required to sign the document and return it
+- The proposer must provide the mailing address of the authorized government representative.
+- Include the date and signature of the authorized government representative
+- Ensure that the quantity in column 21 has been received and inspected
+- Provide the e-mail of the authorized government representative
+- Include the total number of containers, date received, location received at, and the name of the person who received the containers
+- Include the date, signature, and title of the certifying officer
+- Certify the account is correct and proper for payment
+- Period of Performance: 09/30/2023 to 09/29/2024
+- Licenses required: Executive Coaching/Assessments/Learning Resources IAW PWS
+- Option Period 1 deadline: 09/30/2024
+- Option Period 2 deadline: 09/30/2025
+- Option Period 3 deadline: 09/30/2026
+- Period of Performance: 09/30/2026 to 09/30/2027
+- FAR 52.217-9 Option to Extend the Term of the Contract (Mar 2000)
+- DTAR 1052.210-70 Contractor Publicity (Apr 2015)
+- Minority and Women Inclusion (Jan 2016)
+- Section 508 Conformance (Nov 2020)
+- Section 508 Services (JUN 2022)
+- Post Award Evaluation of Contractor Performance (Jun 2020)
+- FAR 52.204-24 Representation Regarding Certain Telecommunications and Video Surveillance Services or Equipment (Nov 2021)
+- FAR 52.212-3 Offeror Representations and Certifications—Commercial Products and Commercial Services (Dec 2022)
+- FAR 52.233-2 Service of Protest (Sep 2006)
+- DTAR 1052.209-70 Notice and Consent to Disclose and Use of Taxpayer Return Information (Nov 2017)
+- IR 1052.215-9002 Expense Related to Proposal Submissions (May 2018)
+- IR 1052.215-9003 Discussions and Correspondence (Nov 2020)
+- Task Orders will be awarded using procedures stated at FAR16.505
+- NAICS code for this acquisition is 611430 – Professional and Management Development Training
+- Minimum guarantee for this acquisition is $57,000.00
+- Individual task orders will be awarded on a Firm Fixed Price basis
+- The proposer must provide licenses for Executive Coaching/Assessments/Learning Resources for 1001, 2001, and 3001 users
+- The purpose of the requirement is for a web-based application resource for on-demand professional coaching in specific areas
+- Base period and three option periods for performance
+- Delivery of all reports and services to U.S. Department of the Treasury at specified address
+- FOB Point is Destination
+- FAR Provision 52.212-1, Instructions to Offerors-Commercial Products and Commercial Services, applies
+- FAR Provision 52.212-2, Evaluation-Commercial Products and Commercial Services, applies
+- Offerors must include completed copy of provision at 52.212-3, Offeror Representations and Certifications-Commercial Products and Commercial Services, with their offer
+- Clause at 52.212-4 applies
+- FAR Clause at 52.212-5 applies
+- Deadline: 10 July 2023
+- 1:1 Coaching by ICF credentialed coaches
+- On-Demand Coaching with sessions within one business day
+- Learning/Development Resources to support coachees in coaching areas
+- Assessment at start and end of engagements
+- Capacity to offer 360 Assessments aligned with OPM's ECQs included in licensing fee
+- Timely identification of coaches within 5 business days of request
+- Coaches must be ICF credentialed
+- At least one 360 Assessment must align with OPM's ECQs
+- 360 Assessments completed online with reports for coachee
+- Contractor must provide documentation on validity and reliability of assessment
+- Deliverables must be provided in a format mutually agreed upon by TEI and the Contractor
+- Monthly status report must be submitted by the 7th calendar day for the previous month's activities
+- Post Session Survey Results must be submitted by the 7th calendar day for the previous month's activities
+- Behavioral Change Data must be submitted quarterly by the 15th calendar day for the previous quarter's activities
+- Final Report must be submitted prior to completion of the period of performance
+- Monthly/Quarterly Status Reports must be provided along with TEI access to an administrative webpage documenting the previous month's activity
+- The Contractor must provide Monthly/Quarterly Status Reports and TEI access to an administrative webpage documenting the previous month activity by the 7th of the subsequent month/quarter
+- The Contractor must provide a Final Report to be submitted prior to the completion of the period of performance
+- The Final Report must include engagement with coaches, learning resources outside of coaching sessions, post session survey results, and behavioral change data
+- Services will be available online via the contractor's website
+- Coaching sessions are to be performed virtually via video conference meetings or telephone
+- Base Period: 9/30/2023 – 9/29/2024
+- Option 1: 9/30/2024 – 9/29/2025
+- Option 2: 9/30/2025 – 9/29/2026
+- Option 3: 9/30/2026 – 9/29/2027
+- Online service is available 24 hours a day/7 days a week
+- The Contractor is responsible for performing live coaching services between the hours of 8 am and 5 pm Monday through Friday based on client location/time zone, or as otherwise required for or requested by the Government at no additional cost, except Federal holidays or when the Government agency is closed due to local or national emergencies, administrative closings, or similar Government directed agency closings
+- The Contractor is not required to perform services on the recognized holidays listed in the document
+- The Government reserves the right to require performance on any day of the year at no additional cost if circumstances require
+- The Contractor shall also follow any other holiday as declared by the President
+- The Contractor is not authorized to commence performance prior to the issuance of a signed Task Order or other written approval provided by the CO to begin work.
+- This service must meet industry standards to comply with 508 regulations.
+- The COR must be appointed and identified.
+- The performance of work under the contract is subject to the technical direction of the COR or a designated representative.
+- Technical direction must be within the scope of the contract specification(s)/work statement.
+- The COR does not have authority to issue technical direction that constitutes a change of assignment or additional work outside the contract specification(s)/work statement.
+- The COR must confirm oral direction in writing within five workdays, with a copy to the Contracting Officer.
+- The Contractor shall proceed promptly with performance resulting from the technical direction issued by the COR.
+- The Contractor shall provide a Project Manager for this contract
+- The Project Manager shall have the authority to make any no-cost technical, hiring, and dismissal decisions, or special arrangement regarding this contract
+- The Project Manager shall be responsible for the overall management and coordination of this contract
+- The Project Manager shall act as the central point of contact with the Government
+- The Project Manager shall have full authority to act for the Contractor in the performance of the required services
+- The Project Manager or designated representative must respond within four hours after notification of a problem.
+- Invoices must be submitted electronically to https://www.ipp.gov.
+- An electronic copy of the invoice must be simultaneously submitted to the COR and the Contracting Officer.
+- Proper invoices must be rendered on a percentage complete basis.
+- Each invoice submitted must be supported by appropriate documentation.
+- Documentation necessary for invoices includes project name and number, invoice number, percent complete, original contract amount, modification amounts, retainage amount, cost of materials used, value of work in place, contractor name, and contract number.
+- Documentation must meet the approval of the Contracting Officer.
+- Payment requests must include supporting documentation.
+- Invoices must be submitted electronically through IPP in the proper format with required information.
+- Invoices must meet the minimum standards specified in FAR 32.905(b).
+- Certain documents are required to be submitted as an attachment to the invoice.
+- If unable to use IPP, complete and submit a waiver form for review and approval.
+- Waivers must be submitted in PDF or Word format.
+- Vendors will be notified of waiver approval or rejection within a reasonable timeframe.
+- If a waiver is granted, submit a copy with each invoice to the payment office.
+- Comply with FAR 52.212-5 Contract Terms and Conditions Required to Implement Statutes or Executive Orders— Commercial Products and Commercial Services (Jun 2023)
+- Prohibition on Requiring Certain Internal Confidentiality Agreements or Statements (Jan 2017)
+- Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities (Nov 2021)
+- Protest After Award (Aug 1996)
+- Applicable Law for Breach of Contract Claim (Oct 2004)
+- Comply with FAR clause 52.203-6 Restrictions on Subcontractor Sales to the Government (Jun 2020) with Alternate I (Nov 2021)
+- Reporting Executive Compensation and First-Tier Subcontract Awards (Jun 2020)
+- Service Contract Reporting Requirements for Indefinite-Delivery Contracts (Oct 2016)
+- Prohibition on a ByteDance Covered Application
+- Protecting the Government’s Interest When Subcontracting with Contractors Debarred, Suspended, or Proposed for Debarment
+- Updates of Publicly Available Information Regarding Responsibility Matters
+- Notice of Price Evaluation Preference for HUBZone Small Business Concerns
+- Utilization of Small Business Concerns (Oct 2022)
+- Small Business Subcontracting Plan (Oct 2022) must be submitted in accordance with 52.219-9
+- Notice of Set-Aside of Orders must be provided in accordance with 52.219-13
+- Limitations on Subcontracting must be followed as per 52.219-14
+- Notice of Set-Aside for, or Sole-Source Award to, Economically Disadvantaged Women-Owned Small Business Concerns (Oct 2022)
+- Notice of Set-Aside for, or Sole-Source Award to, Women-Owned Small Business Concerns Eligible Under the Women-Owned Small Business Program (Oct 2022)
+- Convict Labor (Jun 2003)
+- Prohibition of Segregated Facilities (Apr 2015)
+- Equal Opportunity (Sep 2016) (E.O.11246)
+- Equal Opportunity for Veterans (Jun 2020) (38 U.S.C. 4212)
+- Equal Opportunity for Workers with Disabilities (Jun 2020) (29 U.S.C. 793)
+- Employment Reports on Veterans (Jun 2020) (38 U.S.C. 4212)
+- Notification of Employee Rights Under the National Labor Relations Act (Dec 2010)
+- Encouraging Contractor Policies to Ban Text Messaging While Driving (Jun 2020) (E.O. 13513)
+- Aerosols (Jun 2016) (E.O. 13693)
+- Foams (Jun2016) (E.O. 13693)
+- Privacy Training (Jan 2017) (5 U.S.C. 552 a)
+- Buy American-Supplies (Oct 2022) (41 U.S.C. chapter 83)
+- Buy American-Free Trade Agreements-Israeli Trade Act (Dec 2022) (19 U.S.C. 3301 note, 19 U.S.C. 2112 note, 19 U.S.C. 3805 note, 19 U.S.C. 4001 note, 19 U.S.C. chapter 29 (sections 4501-4732), Public Law 103-182, 108-77, 108-78, 108-286, 108-302, 109-53, 109-169, 109-283, 110-138, 112-41, 112-42, and 112-43)
+- Restrictions on Certain Foreign Purchases (Feb 2021)
+- Preference for Privately Owned U.S.-Flag Commercial Vessels (Nov 2021)
+- Minimum Wages for Contractor Workers Under Executive Order 14026 (Jan 2022)
+- Paid Sick Leave Under Executive Order 13706 (Jan 2022)
+- Contractor Code of Business Ethics and Conduct (Nov 2021)
+- Prohibition on Requiring Certain Internal Confidentiality Agreements or Statements (Jan 2017)
+- Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities (Nov 2021)
+- Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment
+- Prohibition on a ByteDance Covered Application
+- Utilization of Small Business Concerns
+- Prohibition of Segregated Facilities (Apr 2015)
+- Equal Opportunity (Sep 2015) (E.O.11246)
+- Equal Opportunity for Veterans (Jun 2020) (38 U.S.C. 4212)
+- Equal Opportunity for Workers with Disabilities (Jun 2020) (29 U.S.C. 793)
+- Employment Reports on Veterans (Jun 2020) (38 U.S.C. 4212)
+- Notification of Employee Rights Under the National Labor Relations Act (Dec 2010) (E.O. 13496)
+- Service Contract Labor Standards (Aug 2018) (41 U.S.C. chapter 67)
+- Combating Trafficking in Persons (Nov 2021) (22 U.S.C. chapter 78 and E.O 13627)
+- Employment Eligibility Verification (May 2022)
+- Paid Sick Leave Under Executive Order 13706 compliance required
+- Privacy Training compliance required
+- Contractors Performing Private Security Functions Outside the United States compliance required
+- Orders may be issued from 09/30/2023 through 09/29/2027
+- Minimum order amount of $57,000
+- Maximum order limit of $1,000,000 for a single item
+- Maximum order limit of $1,000,000 for a combination of items
+- Contractor must honor orders exceeding maximum limits unless returned within 5 days
+- Total extension of performance not to exceed 6 months
+- Contracting Officer may exercise option within 10 days of contract expiration
+- Government may extend contract term by written notice within 7 days
+- Government must give preliminary notice of intent to extend at least 30 days before contract expires
+- Total duration of contract not to exceed 48 months or 4 years
+- Obtain written consent before using references in news releases or advertising
+- Violation of consent requirement may result in remedies under applicable law
+- Violation of consent requirement may be considered in past performance evaluation
+- Compliance with FAR 2.101 for commercial item definition required
+- Compliance with terms and conditions customarily offered by vendors required
+- Compliance with binding legal obligations on end user required
+- Compliance with regardless of format or style of document
+- Compliance with regardless of media or delivery mechanism used
+- Order of precedence
+- Compliance with Laws Unique to Government Contracts
+- Unauthorized Obligations
+- Compliance with Paragraph (u)(1) of the clause
+- Compliance with applicable agency regulations and procedures
+- Compliance with incorporating the specified language into Commercial Supplier Agreements
+- Compliance with the applicability of the agreement as part of a contract between the commercial supplier and the Government
+- Binding arbitration shall not be used unless specifically authorized by agency guidance
+- No automatic renewals
+- Indemnification
+- Audits
+- The audit must be performed at the commercial supplier's or licensor's expense
+- Any resulting invoice from discrepancies found in an audit must comply with proper invoicing requirements specified in the underlying Government contract or order
+- The Contractor must notify the Contracting Officer of any audit request
+- Any taxes or surcharges must be submitted to the Contracting Officer for a determination of applicability prior to invoicing unless specifically agreed to otherwise in the underlying contract
+- Contractor shall ensure the fair inclusion of minorities and women in its workforce
+- Contractor shall insert the substance of this clause in all subcontracts awarded under this contract whose dollar value exceeds $150,000
+- The Contractor shall provide documentation of actions taken to demonstrate good faith effort to comply with the aforementioned provisions within ten business days of a written request from the Contracting Officer
+- Deadline: January 2016
+- Submit a pdf file of the fully executed contract or order within ten business days from the date of award of the contract or any order issued under the contract
+- Include all Contractor proposed redactions in the pdf file
+- Provide a written statement identifying the portions of each proposed redaction and the applicable exemption under the Freedom of Information Act (FOIA)
+- The proposer must demonstrate why the information is considered to be a trade secret or commercial or financial information that is privileged or confidential
+- Treasury will consider the Contractor's proposed redactions and associated grounds for nondisclosure before making a determination on what information may be properly withheld for publication of the contract
+- The Contractor may submit a request to the CO for additional time to complete the action prescribed by the clause
+- Lack of action by the Contractor will be deemed by the Government as there being no information in the Treasury contract subject to a FOIA exemption
+- Information provided by the Contractor in response to this clause may itself be subject to disclosure under the FOIA
+- Terms may be included by reference using electronic means
+- Terms are enforceable only if readily available at referenced locations
+- Terms do not materially change government obligations
+- No automatic renewals without prior express Government approval
+- Invoices must comply with proper invoicing requirements specified in the underlying Government contract or order
+- Audits requested by commercial supplier or licensor will be performed at their expense
+- Taxes or surcharges must be submitted for determination of applicability prior to invoicing
+- Compliance with 36 CFR, Appendix C to Part 1194
+- Compliance with Section 601.1 of Chapter 6: Support Documentation and Services
+- Section 508 Conformance (Nov 2020)
+- Compliance with Appendix C to Part 1194 at specified level of conformance
+- Compliance with technical standards outlined in Chapter 4: Hardware
+- ICT must be compatible with accessibility-related software and assistive technology devices
+- Section 508 Services compliance deadline: June 2022
+- Prepare final performance evaluation at the completion of the contract
+- Prepare interim evaluations annually on the contract anniversary
+- Conduct past performance evaluation using CPARS
+- Register in CPARS for electronic processing of performance evaluation reports
+- Provide interim and final evaluations to Contractor for review and comment
+- Post evaluations of contractor past performance to relevant database within 14 days
+- Acknowledge receipt of evaluation by indicating "No comment" within 14 days
+- Submit signed evaluation form within 14 days
+- Post evaluation to PPIRS within 14 days
+- Contractor's late comments must be posted to PPIRS
+- The appeal does not stop the 14-day reporting period
+- The original evaluation will be posted on PPIRS
+- Protect the evaluation as "source selection information"
+- Transmit the evaluation by completing and submitting the form through CPARS
+- Strictly control access to the evaluation within the Contractor's organization
+- Prohibit the use of or reference to evaluation data for specific purposes
+- The vendor must complete required blocks and submit them with their quotation or offer
+- Prohibition on contracting with entities that require certain internal confidentiality agreements or statements
+- Prohibition on requiring certain internal confidentiality agreements or statements
+- System for Award Management compliance
+- Commercial and Government Entity Code Reporting compliance
+- Ownership or control of offeror compliance
+- The offeror must be a women-owned business concern
+- Prohibition on procuring or obtaining certain telecommunications equipment or services
+- Exceptions for specific cases
+- Compliance with Section 889(a)(1)(B) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019
+- Deadline for compliance with the prohibition: August 13, 2020
+- Review the list of excluded parties in the System for Award Management (SAM)
+- Provide disclosure information if providing covered telecommunications equipment or services
+- Conduct a reasonable inquiry to determine if providing covered telecommunications equipment or services
+- Provide information on the entity that produced the covered telecommunications equipment
+- Provide a description of all covered telecommunications equipment offered
+- Provide an explanation of the proposed use of covered telecommunications equipment
+- Provide Product Service Code (PSC) of the service being provided
+- Complete annual representations and certifications if not done electronically
+- No forced labor of persons under the age of 18
+- Highest-level owner must not be owned or controlled by any entity
+- Immediate owner must have direct control of the offeror
+- Manufactured end product must fall within specific product and service codes
+- Provide information on the place of manufacture of the end product
+- End product must be assembled out of components or made from raw materials
+- Technology used must not restrict the free flow of unbiased information in Iran
+- At least 51 percent of the small business concern must be owned by one or more service-disabled veterans
+- The management and daily business operations of the small business concern must be controlled by one or more service-disabled veterans
+- The proposer must be a small business concern as defined in 13 CFR part 121 and size standards in the solicitation
+- The proposer must meet the criteria for a service-disabled veteran as defined in 38 U.S.C. 101(2) and 101(16)
+- SBA determines affiliation based on the factors set forth at 13 CFR 121.103
+- Small disadvantaged business concern must be at least 51 percent unconditionally and directly owned by socially disadvantaged and economically disadvantaged individuals who are citizens of the United States
+- Each individual claiming economic disadvantage must have a net worth not exceeding $750,000 after taking into account the applicable exclusions set forth at 13 CFR 124.104(c)(2)
+- The management and daily business operations of the small disadvantaged business concern must be controlled by individuals who meet the criteria in the definition
+- Ownership of a subsidiary entity must be more than 50 percent by a parent corporation
+- The proposer must be a veteran-owned small business concern
+- The proposer must be a Women-owned small business (WOSB) concern eligible under the WOSB Program
+- The proposer must be certified by SBA or an approved third-party certifier in accordance with 13 CFR 127.300
+- The proposer must have completed the annual representations and certifications electronically in SAM accessed through http://www.sam.gov
+- The offeror must have completed the annual representations and certifications electronically in SAM
+- The representations and certifications must have been entered or updated in the last 12 months
+- The representations and certifications must be current and accurate
+- The offeror must identify the applicable paragraphs at (c) through (v) of this provision that have been completed for the purposes of this solicitation
+- The representations and certifications provided by the offeror must be current, accurate, and complete as of the date of the offer
+- Offerors must complete the representations when the resulting contract is for supplies to be delivered or services to be performed in the United States or its outlying areas
+- Offerors must indicate whether they are a small business concern or a small business joint venture
+- Provide the name and unique entity identifier of each party to the joint venture, if applicable
+- Enter the name and unique entity identifier of each party to the joint venture
+- Represent as a veteran-owned small business concern
+- Enter the name and unique entity identifier of each party to the joint venture
+- Provide representation of service-disabled veteran-owned small business concern status for each participating entity in the joint venture
+- Represent as a women-owned small business concern
+- Represent compliance with joint venture requirements for WOSB and EDWOSB programs
+- Be an economically disadvantaged women-owned small business (EDWOSB) joint venture complying with specified requirements
+- Enter the name and unique entity identifier of each party to the joint venture
+- Be a women-owned business concern if not represented as a small business concern
+- Be a women-owned business concern
+- Identify labor surplus areas if costs exceed 50% of contract price
+- Complete HUBZone small business concern section if represented as a small business concern
+- Be listed as a certified HUBZone small business concern in Dynamic Small Business Search and SAM
+- Attempt to maintain 35% employment rate of HUBZone residents during performance of HUBZone contract
+- Comply with requirements of 13 CFR 126.616(a) through (c) if a HUBZone joint venture
+- Enter the name and unique entity identifier of each party to the joint venture
+- Provide representation of HUBZone status for each participating HUBZone small business concern
+- Indicate participation in previous contract or subcontract subject to Equal Opportunity clause
+- Contract expected to exceed $150,000
+- List the line item numbers of domestic end products that contain a critical component
+- Exceeds 55% domestic content (yes/no)
+- List the country of origin for each line item
+- Submit Buy American-Free Trade Agreements-Israeli Trade Act Certificate, Alternate II
+- Buy American-Free Trade Agreements-Israeli Trade Act Certificate, Alternate III
+- Trade Agreements Certificate
+- Evaluation of offers in accordance with FAR part 25
+- Offers of U.S.-made or designated country end products will be evaluated for line items covered by the WTO GPA
+- The Government will consider for award only offers of U.S.-made or designated country end products
+- Certification Regarding Responsibility Matters (Executive Order 12689) applies if the contract value is expected to exceed the simplified acquisition threshold
+- Have not been notified of any delinquent Federal taxes in a three-year period preceding the offer
+- Taxes must be paid on time and in full compliance with the agreement terms.
+- Offeror must disclose the place of manufacture of the end products.
+- Equipment maintenance, calibration, or repair must be done as per established catalog or market prices.
+- Service employees' compensation plan must be equivalent to those servicing commercial customers.
+- Offerors must provide required information to comply with debt collection and reporting requirements.
+- Taxpayer Identification Number (TIN) must be provided and accurate.
+- Offeror must certify not conducting restricted business operations in Sudan.
+- Questions regarding sensitive technology must be emailed to CISADA106@state.gov.
+- Required representations and certifications must be submitted.
+- Do not export sensitive technology to the government of Iran or any entities owned or controlled by the government of Iran
+- Do not engage in activities that may result in sanctions under the Iran Sanctions Act
+- Do not engage in transactions exceeding the threshold with Iran’s Revolutionary Guard Corps or its affiliates
+- Check OFAC’s Specially Designated Nationals and Blocked Persons List
+- Have a unique entity identifier in the solicitation
+- Provide information about immediate owner, including CAGE code, legal name, and ownership by another entity
+- Provide information about highest-level owner CAGE code and legal name if immediate owner is owned or controlled by another entity
+- Do not have any unpaid Federal tax liability that has been assessed and is not being paid in a timely manner
+- Have not been convicted of a felony criminal violation under any Federal law within the preceding 24 months
+- Represent whether there is any unpaid Federal tax liability that has been assessed and is not being paid in a timely manner
+- Represent whether there has been a conviction of a felony criminal violation under a Federal law within the preceding 24 months
+- Represent whether a successor to a predecessor that held a Federal contract or grant within the last three years
+- Provide Predecessor CAGE code and legal name if applicable
+- Publicly disclose greenhouse gas emissions or reduction goals if received $7.5 million or more in contract awards in the prior Federal fiscal year
+- Provide a publicly accessible website where greenhouse gas emissions and/or reduction goals are reported
+- Do not require employees or subcontractors to sign internal confidentiality agreements prohibiting reporting of waste, fraud, or abuse
+- Do not require employees or subcontractors to sign internal confidentiality agreements restricting reporting of waste, fraud, or abuse related to Government contracts
+- Review the list of excluded parties in the System for Award Management (SAM) for entities excluded from receiving federal awards for "covered telecommunications equipment or services"
+- Submit the required notice and consent to disclose and use of taxpayer return information by the deadline
+- Comply with 26 U.S.C. 6103(a) regarding the confidentiality of taxpayer return information
+- Undergo a tax check to determine eligibility for receiving an award
+- Confirm no delinquent Federal tax liability prior to submitting response
+- Obtain information to demonstrate responsibility to the contracting officer if recently settled a delinquent Federal tax liability
+- Execute the consent to disclosure and include it with the offer submission
+- Sign the consent to disclosure as an authorized person
+- Provide consent for disclosure of taxpayer return information to specific person(s)
+- Have the authority to execute the consent on behalf of the organization
+- Provide taxpayer identification number
+- Provide address
+- Provide name and title of individual executing the consent
+- Sign and date the consent document
+- Make all communications concerning the solicitation through the CO
+- Submit technical questions in writing
+- Submit questions to the Contracting Officer at least 7 days before the proposal due date
+- Submit questions regarding the RFP via email to Aaron C. Hill by 2:00PM (EDT) on Monday, August 15, 2023
+- Submit questions via email to Aaron C. Hill (Aaron.C.Hill@irs.gov)
+- Questions must be submitted by 2:00PM (EDT) on Monday, August 15, 2023
+- Phase 1 demonstration must be provided or scheduled by 4:00 PM EDT on August 10, 2023
+- Phase 2 proposals must be submitted electronically by 2:00 PM EDT on August 31, 2023
+- Use 8.5”x11” size paper, single spaced with 1” margins all around
+- Text shall be no smaller than 12-point font
+- Every page, except for the Title Page, shall contain a page number
+- Blank pages will contain the marking “Page Intentionally Left Blank”
+- Every page will contain the Offeror’s name and the RFP number
+- Ensure data considered sensitive is marked as such
+- Include point of contact information for questions/problems with submission
+- Submissions shall be via email in MS Word, MS Excel, and/or .pdf format
+- Provide a demonstration of COTS On Demand Coaching Platform in Phase 1
+- Demonstration must be live action, not via screen shots, in a 30-minute presentation
+- Schedule demonstration within 7 business days after RFP posting by emailing Contract Specialist Aaron C. Hill and Angela Gallo
+- Quote is valid through 60 calendar days after RFP closing date
+- Note if annual representations and certifications have been completed electronically in SAM
+- Include a section on Technical Approach in Volume II
+- The proposal shall include a description of how the Offeror’s proposal will accomplish all technical requirements listed in the SOW.
+- The proposal shall describe how the Offeror plans to manage all tasks described in the SOW.
+- The Offeror must provide a proposed subcontracting plan compliant with FAR Clause 52.219-9.
+- The proposed subcontracting plan must demonstrate how small businesses will play an active role throughout the life of the contract.
+- The plan shall include a list of the legal name, applicable socio-economic categories, corporate address, SOW related specialties, and geographic service area(s) of all proposed subcontractors at any tier and outline the teaming and subcontracting arrangements proposed for performance of work contained in the solicitation.
+- Small businesses are not required to submit a detailed 52.219-9 subcontracting plan but are still required to state how much work will be subcontracted to large and small businesses.
+- The Offeror shall provide information on a minimum of one (1) project performed within the last five (5) years that are similar to this effort in terms of type, scope, complexity, and size.
+- All Point of Contact (POC) and Alternate Point of Contact (APOC) must be reachable and have current and valid information.
+- Offerors must submit a completed and signed RFP, including any amendments.
+- Offerors must complete all required fill-ins for Provisions/Clauses listed in the RFP.
+- Offerors must submit all included “fill-in” Provisions/Clauses listed below.
+- Providing a proposal without filling in the Provisions/Clauses may result in the offeror receiving an overall evaluated score of “Non-Responsive”.
+- Proposals that fail to furnish required representations or information or reject the terms and conditions of the solicitation may be excluded from consideration.
+- Offerors shall input rates per unit monthly price established for the on-demand coaching services.
+- Offerors shall calculate a yearly total price for the base and 3 option periods.
+- Offerors shall consider the possibility of an additional 6 months after option period 3.
+- Offerors shall input any discounts offered.
+- Offerors shall not alter the format, content, or formulas on the Excel spreadsheet.
+- Cover Letter: 2 pages maximum
+- Technical Approach Volume: 5 pages maximum
+- Management Approach Volume: 3 pages maximum
+- Past Performance Volume: No page limit
+- Completed RFP and Price Volume: No page limit
+- Each page shall be counted
+- The Phase 2 proposal submission date will be provided with the advisory notices
+- Failure to participate in Phase 1 precludes further consideration of an Offeror
+- Submissions will not be accepted from Offerors who have not scheduled their Phase 1 demonstration by the due date and time stated
+- Offerors wishing to proceed to Phase 2 shall provide their notice of intent to do so to the Government in accordance with the instructions
+- The Government intends to allow Offerors 48 hours to decide whether to proceed with a Phase 2 submission
+- Offerors will be evaluated on merits of demonstration performance in accordance with section 2.3.2 Demonstration of COTS On Demand Coaching Platform requirements
+- Proposed subcontracting plan compliant with FAR Clause 52.219-9
+- Evaluation of past performance in providing services for the past five (5) years
+- Evaluation of relevancy between past performance and solicitation requirements
+- Evaluation of similarity in size, scope, and complexity between past performance and SOW
+- Evaluation of potential for disruption, increase in price, or degradation in quality based on past performance
+- Evaluation of commitment to customer satisfaction and compliance with laws and regulations
+- Use of information provided by references in CPARS for past performance evaluations
+- Proposals must include relevant present and past performance information
+- Proposals must include complete pricing to be considered for award
+- Offerors must use the provided MS Excel spreadsheet to complete their price proposal and include the file with their email submission
+- 100% compliance to the standards set in PWS Section 3. Task 1, 2, 3 and 5
+- All coaching requests assigned and coaching delivered as stated in PWS Section 3 Task 1, 2, 3, and 4
+- Adherence to the delivery schedule as agreed upon by Contractor and COR as required in PWS Section 4
+- Deliverables as agreed upon by Contractor and COR in proper format on time
+- Review of monthly and quarterly deliverables
+- Full payment shall be made for 100% compliance for each weekly and monthly deliverable
+- Any deviation or delay upon the agreed upon delivery time will be recorded and influence the contractor closing assessment made by the COR
+- Offeror must provide description of service(s) or product(s)
+- Number and Names of Sub-contractors, if any
+- Contract/Compensation Type (client fixed price or cost reimbursement, user fee, or other)
+- None

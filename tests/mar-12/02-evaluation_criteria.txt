@@ -1,0 +1,86 @@
+1. Compatibility of ICT with accessibility-related software and assistive technology devices
+2. Adherence to the functional performance criteria as outlined in 36 CFR Chapter 3
+3. General performance as per Chapter 3: Functional Performance Criteria
+4. Compliance with standards referenced in Chapter 7
+5. Use of applications as per X 503
+6. Use of authoring tools as per X 504
+7. Incorporation by reference as per X 702
+8. Contractor performance as per IR 1052.242-9000 - Post Award Evaluation of Contractor Performance (Jun 2020)
+9. Preparation of interim and final evaluations in accordance with FAR 42.15
+10. Timely preparation of evaluations to coincide with the anniversary date of the contract.
+1. Exceeds 55% domestic content
+2. Contains a critical component in domestic end products
+3. Compliance with the policies and procedures of FAR part 25
+4. Compliance with the Buy American-Free Trade Agreements-Israeli Trade Act Certificate
+5. Certification of each end product as a domestic end product
+6. Certification of the supplies as Free Trade Agreement country end products or Israeli end products.
+1. Listing of foreign end products and their country of origin.
+2. Indication of whether these foreign end products exceed 55 percent domestic content.
+3. Listing of line item numbers of domestic end products that contain a critical component.
+4. Compliance with the policies and procedures of FAR part 25.
+5. Certification of Israeli end products as per the "Buy American—Free Trade Agreements—Israeli Trade Act".
+1. Does the Offeror’s demonstration display an existing on demand coaching platform with the ability to search through a coaching database and view bios of coaches and credentialing? Does the platform offer ease in user interface, easy access to login, and a user-friendly web page?
+2. Does it provide real-time access to data, including coaching/client activity (sessions, hours, client, organization), assessments as outlined in the SOW?
+3. Does it provide seamless scheduling of a coaching session and the ability to attach to Outlook Calendar?
+4. Does it provide demonstration of PC access (optional mobile access), individual logins, and 508 compliance?
+5. Is the website a one-stop-shop for all site resources and does it provide access to 24/7 on demand content and tools?
+1. Understanding of the requirements detailed in the SOW including applicable laws and regulations.
+2. Capability of the online subscription services with online access to the digital libraries via the website platform.
+3. Approach to accomplish all of the technical requirements listed in the SOW.
+4. Management approach to plan, schedule, initiate, administer, and monitor each task to meet requirements.
+5. Management of the delivery requirements in SOW Section 4.
+6. Proposed subcontracting plan compliant with FAR Clause 52.219-9.
+7. Inclusion of small businesses in the subcontracting plan.
+8. Information on a minimum of one (1) project performed within the last five (5) years that are similar to this effort in terms of type, scope, complexity and size.
+1. Description of current and past performance per project
+2. Identification of organizations where similar tasks have been performed
+3. Degree of involvement in previous projects (prime or subcontractor)
+4. Expertise description, including projects with the Federal Government, state and local government agencies, and commercial customers
+5. Use of the Past Performance Reference Form to provide required information
+6. The Government's right to contact references or any other available resource to obtain information.
+- Factor 1 – Technical Approach 
+- Factor 2 – Management Approach  
+- Factor 3 – Past Performance 
+- Factor 4 – Price
+1. Technical Approach (Factor 1)
+2. Management Approach (Factor 2)
+3. Past Performance (Factor 3)
+4. Price (Factor 4)
+5. Phase 1 confidence ratings
+6. Participation in Phase 1 demonstration
+1. Phase 1 Demonstration: Evaluation will be based on the merits of demonstration performance in accordance with section 2.3.2 Demonstration of COTS On Demand Coaching Platform requirements. The confidence rating will be applied based on the level of understanding of the requirement, the establishment of an on-demand coaching platform, and the likelihood of successful performance of the contract with varying degrees of Government intervention.
+
+2. Phase 2 Proposal Submission: Factor 1 Technical Approach: Evaluation will be based on the demonstrated ability to effectively and efficiently perform the work specified in the SOW. The approach must demonstrate how each task in the SOW will be accomplished and should reflect a clear understanding of the work under this requirement.
+
+3. Strengths and Weaknesses: Evaluation will also consider the strengths and weaknesses of the proposal, with a strength being an attribute that exceeds the specified performance or capability requirements in a beneficial way, and a weakness being a flaw that increases the risk of unsuccessful contract performance.
+1. Presence of significant weaknesses in the proposal
+2. Presence of deficiencies in the proposal
+3. Confidence ratings for Factor 1 Technical Approach:
+   - High Confidence: Understanding of the requirement, soundness of approach, and likelihood of successful performance with little or no Government intervention.
+   - Some Confidence: Understanding of the requirement, soundness of approach, and likelihood of successful performance with some Government intervention.
+   - Low Confidence: Understanding of the requirement, soundness of approach, and likelihood of successful performance even with Government intervention.
+4. Acceptability of the proposal for all the Factors.
+1. Acceptability of the Offeror’s proposed management approach
+2. Task order ordering process and timeliness
+3. Effective communication with the government
+4. Process for monthly status reporting
+5. Overall management competence to effectively plan, execute, and manage the contract requirements.
+1. Clarity of methodology for accomplishing the reporting requirements.
+2. Ability of the proposed management approach to ensure that Treasury achieves established program objectives and mitigates performance risk.
+3. Effectiveness of the management approach in accomplishing, administering, and managing day-to-day operations including project organization, performance monitoring and control activities, quality assurance, subcontractors and task order management process.
+4. Compliance of the proposed subcontracting plan with FAR Clause 52.219-9, demonstrating how small businesses will play an active role throughout the contract.
+5. Inclusion of a list of the legal name, socio-economic categories, corporate address, SOW related specialties, and geographic service area(s) of all proposed subcontractors in the subcontracting plan.
+6. Outline of the teaming and subcontracting arrangements proposed for performance of work contained in the solicitation.
+7. Statement of how much work will be subcontracted to large and small businesses (for small businesses).
+8. Demonstrated record of performance in providing services that meet the customer’s needs during the past five years.
+9. Relevancy between each Offeror’s past performance submission and the solicitation requirements.
+10. Degree of similarity in size, scope, and complexity between an Offeror’s past performance information and the work described in the SOW of the solicitation.
+1. Potential for disruption to schedule, increase in price, or degradation in quality of performance based on the Offeror’s past performance.
+2. Whether an Offeror has consistently demonstrated a commitment to customer satisfaction.
+3. Compliance with federal, state and local laws and regulations.
+4. Relevancy of past performance as a subcontractor.
+5. Records contained in the CPARS assessing the likelihood that an Offeror can successfully perform the required work.
+6. Use of information provided by the references available in CPARS for past performance evaluations.
+1. Offeror's performance record: The government will evaluate whether they have a reasonable expectation that the Offeror will successfully perform the required effort based on their past performance. This includes ratings of Acceptable, Unacceptable, and Neutral.
+2. Total Evaluated Price: The government will use the Total Evaluated Price computed in the Attachment 3 Rate Submission Worksheet Price as the basis for price evaluation. They will evaluate the pricing for accuracy, completeness, and reasonableness for the entire IDIQ period of performance, including the base period and all option periods.
+3. Balance and realism of price submission: The government may reject proposals if the option prices are significantly unbalanced, if the price submission is unbalanced or unrealistic, or if there is a material difference between the Government’s descriptions and that proposed by the Offeror.

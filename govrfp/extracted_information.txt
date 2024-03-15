@@ -1,0 +1,125 @@
+- On-demand executive coaching with assessments
+- Leadership development resources
+- Electronic submission of payment requests
+- Contract terms and conditions required to implement statutes or executive orders for commercial products and services
+Technical requirements:
+- Delivery of all reports and services to the specified address
+- Compliance with FAR Provision 52.212-1, Instructions to Offerors-Commercial Products and Commercial Services
+- Compliance with FAR Provision 52.212-2, Evaluation-Commercial Products and Commercial Services
+- Inclusion of completed copy of provision at 52.212-3, Offeror Representations and Certifications-Commercial Products and Commercial Services
+- 1:1 Coaching by ICF credentialed coaches
+- On-Demand Coaching with sessions occurring within one business day
+- Learning/Development Resources to support coachees in coaching areas
+- Assessment to be completed at start and end of engagements
+Technical requirements:
+- Development of a coaching plan with customized deliverables and development objectives
+- Unlimited coaching sessions for the term of individual license
+- Coaches must be International Coach Federation credentialed
+- At least one 360 Assessment provided on the platform must align with Office of Personnel Management’s Executive Core Qualifications (ECQs)
+- 360 Assessment(s) must be completed online and include reports for the coachee
+- Contractor must share documentation attesting to the validity and reliability of the assessment.
+- The 360 Assessment must be completed online
+- Reports for the coachee must be included
+- Documentation attesting to the validity and reliability of the assessment must be shared by the Contractor
+- The contractor must respond within four hours after notification of a problem
+- The contract will be a firm fixed price (FFP) IDIQ contract with FFP Task Orders
+- Invoices must be submitted electronically to https://www.ipp.gov
+- An electronic copy of the invoice must be submitted to the COR and the Contracting Officer simultaneously
+- Invoices must be rendered on a percentage complete basis
+- Each invoice must be supported by appropriate documentation
+Technical requirements:
+1. The Contractor must submit payment requests electronically using the Invoice Processing Platform (IPP).
+2. Information regarding IPP, including IPP Customer Support contact information, is available at www.ipp.gov or any successor site.
+3. The Contractor may submit payment requests using other than IPP only when the Contracting Officer authorizes alternate procedures in writing in accordance with Treasury procedures.
+4. If alternate payment procedures are authorized, the Contractor must include a copy of the Contracting Officer's written authorization with each payment request.
+Technical requirements:
+1. Vendor invoices must be submitted electronically through the Invoice Processing Platform (IPP).
+2. Invoices must be in the proper format for payment processing.
+3. Invoices must contain all required information for payment processing.
+Technical Requirements:
+1. Vendor invoices must be submitted electronically through IPP.
+2. Invoices must be in the proper format and contain the required information for payment processing.
+3. Invoices must meet the minimum standards specified in FAR 32.905(b) for approval.
+4. Required documents must be submitted as an attachment to the invoice.
+5. Waiver form must be completed in advance if unable to utilize IPP for submitting payment requests.
+Technical requirements:
+- Compliance with Combating Trafficking in Persons regulations (52.222-50)
+- Compliance with Exemption from Application of the Service Contract Labor Standards for Maintenance, Calibration, or Repair of Certain Equipment (52.222-51)
+- Compliance with Exemption from Application of the Service Contract Labor Standards for Certain Services (52.222-53)
+- Compliance with Employment Eligibility Verification (52.222-54)
+- The ICT must be compatible with software and devices to ensure accessibility if required in the future.
+- The contract must adhere to the functional performance criteria outlined in Chapter 3 of 36 CFR.
+- Post award evaluation of contractor performance will be conducted in accordance with FAR 42.15.
+Technical requirements:
+- The Offeror must review the list of excluded parties in the System for Award Management (SAM) for entities excluded from receiving federal awards for "covered telecommunications equipment or services".
+- The Offeror must not provide covered telecommunications equipment or services to the Government in the performance of any contract, subcontract, or other contractual instrument resulting from this solicitation.
+- Questions must be submitted by 2:00PM (EDT) on Monday, August 15, 2023
+- Responses to questions will be provided via an amendment to the RFP distributed via email
+- Inquiries must state [requirement + RFP No.] in the subject line
+- Questions/inquiries received after the deadline will not be answered
+- Questions/inquiries will not be accepted or answered via telephone
+- No other channel of communication regarding the RFP is permitted
+Technical requirements:
+1. Existing and fully functioning COTS On Demand Coaching Platform
+2. Live action demonstration (not via screen shots) in a 30-minute presentation
+3. Capabilities of the On Demand Coaching Platform must be exhibited during the live presentation
+4. Demonstration must be conducted via a zoom meeting or teleconference alternative
+5. Scheduling for the demonstration must be completed on or before the 7th business day after the RFP is posted
+6. Availability for scheduling must be within the hours of 10:00 AM – 4:00 PM Monday through Friday
+- Clear understanding of the requirements detailed in the SOW
+- Compliance with applicable laws and regulations
+- Capability of online subscription services with online access to digital libraries via website platform
+- Accomplishment of requirements in SOW Section 3
+- Accomplishment of all technical requirements listed in the SOW
+- Planning, scheduling, initiation, administration, and monitoring of each task to meet requirements
+- Management of delivery requirements in SOW Section 4
+- Description of how the Offeror plans to manage all tasks described in the SOW
+- The Offeror must plan, schedule, initiate, administer, and monitor each task to meet requirements
+- Manage the delivery requirements in SOW Section 4
+- Describe how the Offeror plans to manage all tasks described in the SOW
+- Provide a proposed subcontracting plan compliant with FAR Clause 52.219-9
+- Demonstrate how small businesses, including small, disadvantaged businesses, women owned small businesses, veteran owned small businesses, service-disabled veteran owned small businesses, and HUBZone small businesses, will play an active role throughout the life of the contract
+- Include a list of the legal name, applicable socio-economic categories, corporate address, SOW related specialties, and geographic service area(s) of all proposed subcontractors at any tier
+- Outline the teaming and subcontracting arrangements proposed for performance of work contained in the solicitation.
+Technical requirements:
+1. List of legal name, socio-economic categories, corporate address, SOW related specialties, and geographic service area(s) of all proposed subcontractors
+2. Outline of teaming and subcontracting arrangements for performance of work
+3. Statement of how much work will be subcontracted to large and small businesses
+4. Information on a minimum of one project performed within the last five years that is similar in type, scope, complexity, and size to the effort
+5. Description of current and past performance per project, including organization, degree of involvement, expertise, and projects entered into with the Federal Government, state and local governments, and commercial customers.
+- Offerors must ensure that the Point of Contact (POC) and Alternate Point of Contact (APOC) are reachable and that all information provided is current and valid.
+- Offerors must submit a completed copy of the RFP and any amendments, with all required fill-ins completed.
+- Offerors must fill in all included "fill-in" Provisions/Clauses listed in the RFP.
+- Failure to provide required representations or information, or rejection of the terms and conditions of the solicitation, may result in exclusion from consideration.
+- Input rates per unit monthly price for on-demand coaching services
+- Calculate yearly total price for base and 3 option periods
+- Calculate possibility of an additional 6 months after option period 3
+- Include any discounts offered
+- Rates will automatically fill in remaining excel sheets
+- Calculate "Total Proposed Price"
+- Do not alter format, content, or formulas on the Excel spreadsheet
+- Technical Approach Volume: 5 pages
+- Management Approach Volume: 3 pages
+- Past Performance Volume: No specific page limit mentioned, but includes Past Performance Reference Attachments (3 pages)
+- Completed RFP and Price Volume: No page limit mentioned
+- Meets 2.3.2 COTS On Demand Coaching Platform requirements
+- Meets at least half of 2.3.2 COTS On Demand Coaching Platform requirements
+- Meets less than half of 2.3.2 COTS On Demand Coaching Platform requirements
+- Factor 1 Technical Approach: Offerors will be evaluated based upon demonstrated ability to effectively and efficiently perform the work specified in the SOW. The approach must demonstrate how each task in the SOW will be accomplished. The approach should reflect a clear understanding of the work under this requirement.
+- Proposals must include complete pricing
+- Total Evaluated Price will be automatically computed in Tab "Total Pricing" of Attachment 3 Rate Submission Worksheet Price
+- Pricing will be evaluated for accuracy, completeness, and reasonableness
+- Price will be evaluated for the entire IDIQ period of performance, including base period and option periods
+- Pricing accuracy, completeness, and reasonableness evaluation
+- Evaluation of pricing for entire IDIQ period, including base period and option periods
+- Rejection of proposals with significantly unbalanced option prices
+- Rejection of proposals with unbalanced or unrealistic price submissions
+- Rejection of proposals with material differences between Government descriptions and proposed by Offeror
+- Use of provided MS Excel spreadsheet for price proposal submission
+- Inclusion of MS Excel file with email submission
+- Incorporation of proposed rates into final IDIQ award and utilization in associated task orders
+- Online site for services, materials, supplies, equipment, and project supervision
+- Adhering to the standards set in PWS Section 3. Task 1, 2, 3 and 5
+- 100% compliance to the standards set in PWS Section 3. Task 1, 2, 3 and 5
+- Review of agreed deliverables as stated in PWS Section 3
+- Full payment shall be made for 100% compliance
