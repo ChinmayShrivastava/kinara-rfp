@@ -1,0 +1,109 @@
+- 1:1 Coaching by ICF credentialed coaches
+- On-Demand Coaching with sessions occurring within one business day
+- Learning/Development Resources to support coachees in gaining knowledge and developing skills in coaching areas
+- Whole-person approach in coaching
+- Assessment to be completed at start and end of engagements
+- Capacity to offer 360 Assessments aligned with Office of Personnel Management's Executive Core Qualifications
+- Inclusion of assessments in platform/licensing fee
+- Platform access for users to serve as a single stop for all services/resources
+- Platform access for admins to show real-time monitoring and usage
+- Demonstration of ability to scale resources
+- Necessity of scaling resources due to contracting mechanism nature
+- Timely identification of coaches within 5 business days of request
+- Orientation/intake session within a week of the introductory session
+- Development of a coaching plan within the first two sessions
+- Unlimited access to coaches
+- Coaching sessions scheduled by the client
+- Platform based
+- Coach availability
+- Sessions lasting 30-60 minutes
+- Provide a Final Report prior to the completion of the period of performance
+- Engage with coaches
+- Provide learning resources outside of coaching sessions
+- Collect post session survey results
+- Collect behavioral change data
+- Task orders placed against this IDIQ
+- Will have their own periods of performance.
+- Availability of online service 
+- 24/7 uptime 
+- Downtime frequency 
+- Downtime duration 
+- Response time to service interruptions 
+- Notification process for downtime 
+- Redundancy measures for continuous availability
+- Total duration of contract: 48 months
+- Total duration of contract: 4 years
+- Interim evaluations of contractor performance
+- Final evaluations of contractor performance
+- Prepared in accordance with FAR 42.15
+- Assessing Official (e.g., Contracting Officer) prepares final evaluation
+- Final evaluation prepared at completion of work on contract
+- Interim evaluations prepared annually
+- Interim evaluations coincide with anniversary date of contract
+- Demonstrate existing COTS On Demand Coaching Platform
+- Live action demonstration
+- Scheduling completed within 7 business days after RFP posting
+- Evaluation based on user interface, data access, scheduling capabilities, access options, and resource availability
+- Failure to participate in Phase 1 precludes further consideration
+- Provide information on one project
+- Project performed within the last five years
+- Similar to this effort in terms of type
+- Similar to this effort in terms of scope
+- Similar to this effort in terms of complexity
+- Similar to this effort in terms of size
+- Ensure Point of Contact (POC) is reachable
+- Ensure Alternate Point of Contact (APOC) is reachable
+- Ensure all information listed is current and valid
+- Government reserves right to contact references
+- Government may use past performance information deemed appropriate
+- Submit all included "fill-in" Provisions/Clauses
+- Include FAR 52.203-2, 52.204-5, 52.204-24, 52.212-3, and DTAR 1052.209-70
+- Failure to fill in Provisions/Clauses may result in "Non-Responsive" score
+- Proposals must furnish required representations and information
+- Proposals must not reject terms and conditions of solicitation
+- Pricing on Attachment 3: Price Submission Sheet will be evaluated for award decision
+- Input rates per unit monthly price for on-demand coaching services
+- Calculate yearly total price for base and 3 option periods
+- Consider additional 6 months after option period 3
+- Consider any discounts offered
+- Government intends to award a single IDIQ
+- Award based on best value to the Government
+- Evaluation in accordance with the solicitation
+- Best value proposal selected through tradeoff process
+- Tradeoff process defined in FAR 13.106-2
+- Evaluation of demonstration performance in Phase 1
+- Based on COTS On Demand Coaching Platform requirements
+- Rating as High Confidence, Some Confidence, or Low Confidence
+- Evaluation of proposed management approach
+- Achievement of established program objectives
+- Mitigation of performance risk
+- Ability to accomplish day-to-day operations
+- Ability to administer day-to-day operations
+- Ability to manage day-to-day operations
+- Project organization evaluation
+- Performance monitoring and control activities evaluation
+- Quality assurance evaluation
+- Subcontractors evaluation
+- Task order management process evaluation
+- Performance requirements
+- Performance objectives
+- Performance thresholds
+- Minimum acceptable levels of service
+- Critical to mission success
+- Adherence to the delivery schedule
+- Agreement between Contractor and COR
+- PWS Section 4
+- Deliverables in proper format
+- Submission on time
+- 100% compliance required for full payment
+- Deviation or delay recorded
+- Influence on contractor closing assessment by COR
+- Identifier: 2032H323R00065
+- Attachment: Past Performance Reference Form
+- Details required: 
+  - Offeror’s Name
+  - Client/Customer Company Name and Address
+  - Title of Contract or Agreement
+  - Client Project Manager or Contracting Representative details
+  - Period of Performance
+  - Description of Service(s) or Product(s)

@@ -1,10 +1,28 @@
 from .prompts import PROMPT_ANNOTATE
 import ast
 
+# 1.⁠ ⁠Evaluation Criteria - Ex: Technical Approach, Management Background, Commercialization, etc.
+# 2.⁠ ⁠Logistics - Contact Info, Payment Info, Date and Time of Submission, Formatting, etc.
+# 3.⁠ ⁠Certifications 
+# 4.⁠ ⁠Statement of Work / Scope of Work / PWS etc.
+# 5.⁠ ⁠Supporting Documents (Similar to Certification)
+# Logistics / Submission / Technial Volume : Type of File, Page Limits, Page number, etc.
+
 _llmannotations = [
     "contains_evaluation_criteria",
-    "contains_relevant_dates",
-    "contains_communication_info",
+    "contains_performance_metrics",
+    "contains_required_certifications",
+    "contains_logistical_information",
+    "contains_logistical_requirements_for_submission",
+    "contains_statement_of_work",
+    "contains_supporting_documents_requirements",
+    "contains_scope_of_work",
+    "contains_technical_volume_requirements",
+    "contains_performance_work_statement",
+    "contains_pricing_requirements",
+    "is_good_to_have",
+    "is_mandatory",
+    "other"
 ]
 
 text_representation = "\n".join(_llmannotations)
