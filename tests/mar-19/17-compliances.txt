@@ -1,0 +1,172 @@
+Submit a Concept Paper by 5:00 PM ET on the due date to be eligible for a Full Application
+Register and submit application materials through EERE eXCHANGE at https://eere-eXCHANGE.energy.gov/
+Designate primary and backup points-of-contact in EERE eXCHANGE for communication during award negotiations
+Register in SAM at https://www.sam.gov before submitting the application
+Adhere to the limitation on the number of concept papers and full applications eligible for review
+Complete the application process as outlined in section A
+Ensure the full application meets the content and form requirements in section D
+Include resumes as outlined in section D.iii
+Include letters of commitment as outlined in section D.iv
+Complete the SF-424: Application for Federal Assistance
+Complete the SF-LLL: Disclosure of Lobbying Activities
+Obtain a Unique Entity Identifier (UEI) and register with System for Award Management (SAM)
+Adhere to Submission Dates and Times
+Handle, label, package, and ship EOL Li-ion batteries according to Department of Transportation safety regulations
+- Ensure applications fall within the technical parameters specified in Sections I.A. and I.B. of the FOA
+- Include a Research and Development Community Benefits Plan (R&D Community Benefits Plan) that addresses advancing diversity, equity, inclusion, accessibility, energy equity, and investing in America's workforce in the application. See Section IV.D.xv. and Appendix G for more information on the R&D Community Benefits Plan content requirements.
+Ensure all iron, steel, manufactured goods, and construction materials used in infrastructure activities are produced in the United States
+Submit only new applications
+- Comply with the content and form requirements in Section IV of the FOA
+- Upload and submit the proposal to EERE eXCHANGE at https://eere-eXCHANGE.energy.gov
+- Submit the proposal by the deadline specified in the FOA
+- Revise or update submissions in EERE eXCHANGE until the deadline
+- Resubmit any changes made to Concept Papers, Full Applications, or Replies to Reviewer Comments before the deadline
+- Do not submit through other means than EERE eXCHANGE, after the deadline, or incomplete submissions
+Submit the application in multiple phases: Concept Paper and Full Application
+Concept Paper submission is required to be eligible for Full Application submission
+All submissions must adhere to specified form and content requirements, including maximum page lengths
+Submit documents in Adobe PDF format unless stated otherwise
+Documents must be in English and formatted to fit on 8.5" x 11" paper with one-inch margins on all sides
+Use Calibri typeface, black font color, and 12-point font size (10-point for figures/tables)
+Include a control number issued during the EERE eXCHANGE application process on every page header and in the file name
+Page numbers must be included in the footer of every page
+Ensure submissions do not exceed the specified maximum page limit, including all elements when printed using the specified formatting and single spacing.
+Do not exceed the maximum page lengths indicated
+Ensure no technical difficulties with submission prior to the FOA deadline
+Upload files to EERE eXCHANGE website with a maximum size of 50MB, larger files must be split and denoted accordingly
+Submit Concept Paper limited to a single concept or technology conforming to specified requirements and page limits
+Include project title, announcement Topic Area, technical and business points of contact, team member organizations, project location(s), and confidentiality statements on the cover page
+Submit a 1-page R&D Community Benefits Plan addressing DEIA, energy equity, and workforce investment
+Complete application forms on the EERE eXCHANGE website
+Do not deviate from the submission deadline stated on the FOA cover page
+Mark all Full Application documents with the control number issued to the applicant
+Ensure Full Applications meet the specified page limits
+Limit file names according to the specified format
+Submit the Technical Volume in PDF format, 30 pages
+Submit Resumes in PDF format, 3 pages each
+Provide Letters of Commitment in PDF format, 1 page each
+Submit Statement of Project Objectives in MS Word format, 7 pages
+Include SF-424 in PDF format
+Use Budget Justification Workbook in MS Excel format
+Use Subrecipient Budget Justification in MS Excel format
+Submit SF-LLL Disclosure of Lobbying Activities in PDF format
+Submit Foreign Entity Waiver Requests and Foreign Work Waiver Requests in PDF format
+Provide R&D Community Benefits Plan in PDF format, 5 pages
+Include Current and Pending Support in PDF format
+Specify Location(s) of Work in Excel format
+Conform to content and form requirements for the Technical Volume
+Save the Technical Volume as a single PDF file titled "ControlNumber_LeadOrganization_TechnicalVolume"
+Limit the Technical Volume to 30 pages, including cover page, table of contents, citations, charts, graphs, maps, photos, and other graphics
+Include all required information in the Technical Volume table
+Provide a Work Breakdown Structure (WBS) in the Workplan
+- Submit a project schedule with task durations, milestones, and Go/No-Go decision points
+- Submit resumes (limited to three pages) for each Principal Investigator or Lead Project Manager and Senior/Key Personnel, including contact information, education and training, research and professional experience, and awards and honors.
+Use the biographical sketch format approved by the National Science Foundation (NSF) as an alternative to a resume
+Save resumes in a single PDF file titled "ControlNumber_LeadOrganization_Resumes"
+Submit letters of commitment from all subrecipient and third-party cost share providers, stating the commitment to providing a specific minimum dollar amount or value of in-kind contributions allocated to cost sharing
+- Indicate the proposed cost sharing type (cash or in-kind contributions)
+- Save commitment letters in a single PDF file titled "ControlNumber_LeadOrganization_LOCs"
+- All required letters must be signed by an authorized representative of the Indian Tribe, such as an elected official (e.g., Chief, Chairman, Chairwoman, Governor, etc.)
+- The signer of the letter must be an authorized representative at the time of application submission
+- Complete a Statement of Project Objectives (SOPO) using the provided template on EERE eXCHANGE
+- The SOPO, including the Milestone Table, must not exceed seven pages when printed on standard 8.5" x 11" paper with 1" margins and 12-point font
+- Save the SOPO in a single Microsoft Word file with the title format "ControlNumber_LeadOrganization_SOPO"
+- Complete the SF-424: Application for Federal Assistance available on EERE eXCHANGE
+Save the SF-424 as a single PDF file with the title format "ControlNumber_LeadOrganization_424"
+Complete the Budget Justification Workbook available on EERE eXCHANGE
+Fill out each tab of the Budget Justification Workbook for the project
+Save the Budget Justification Workbook in a single Microsoft Excel file with the title format "ControlNumber_LeadOrganization_Budget_Justification"
+Include applicant name, lead project manager/principal investigator(s), project title, objectives, project description, methods, potential impact, major participants (for collaborative projects), project commitments and goals from the Community Benefits Plan
+Limit the summary to one page when printed on standard 8.5" x 11" paper with 1" margins and font not smaller than 12-point
+- Project title, prime recipient, PI/LPM, and Senior/Key Personnel information
+Provide a separate budget justification for each subrecipient expected to perform work over $250,000 or 25% of total work effort, whichever is less
+Save each subrecipient budget justification in a Microsoft Excel file with the title convention: "ControlNumber_LeadOrganization_Subrecipient_Budget_Justification"
+If a DOE/NNSA FFRDC is involved, provide a DOE work proposal in accordance with DOE Order 412.1A, Attachment 2
+Save the DOE work proposal in a single PDF file with the title convention: "ControlNumber_LeadOrganization_WP"
+Submit the FFRDC authorization with the application in a single PDF file with the title convention: "ControlNumber_LeadOrganization_FFRDC Auth"
+Complete and submit SF-LLL, "Disclosure of Lobbying Activities"
+Save the SF-LLL in a single PDF file titled "ControlNumber_LeadOrganization_SF-LLL"
+Include the required information listed in Appendix C for waiver requests
+All recipients and subrecipients must qualify as domestic entities for projects selected under this FOA
+Include the required information listed in Appendix C for foreign work waiver requests
+Save the Waivers in a single PDF file titled "ControlNumber_LeadOrganization_Waiver"
+Address all three sections of the R&D Community Benefits Plan to meet the content requirements
+- The R&D Community Benefits Plan must not exceed five pages and be in PDF format
+Identify all connections with foreign government-sponsored talent recruitment programs in current and pending support
+For each activity, provide the sponsor, award or identifying number, title of the award or activity, total cost or value, award period, and person-months of effort per year dedicated to the award or activity.
+PIs and senior/key personnel must provide a disclosure statement with current and pending support information
+Each individual must sign and date their disclosure statement
+Include a certification statement confirming the accuracy of the information provided
+Use the approved format by the NSF or SciENcv for the disclosure statement
+Save the Current and Pending Support document in a single PDF file titled "ControlNumber_LeadOrganization_CPS"
+Specify if the source is foreign or domestic
+Complete the Locations of Work (LOW) Documentation available on EERE eXCHANGE
+List the city, state, and zip code + 4 digits for each location where project work will be performed
+Include entity name, website address, and mailing address
+Identify all owners, principal investigators, project managers, and senior/key personnel involved in any Foreign Government-Sponsored Talent Recruitment Program
+Report any current or pending contractual or financial obligations with a foreign entity
+Indicate the percentage of foreign ownership or control for the proposed recipient or subrecipient
+Report any technology licensing or intellectual property sales to a foreign country in the last 5 years
+Identify any foreign business entity, offshore entity, or entity outside the United States related to the recipient or subrecipient
+Submit a complete capitalization table for the entity, including all equity interests, number of shares issued to each equity holder, percentage of shares, and equity on a fully diluted basis, identifying the principal place of incorporation for each equity holder
+Include a summary table identifying all rounds of financing, purchase dates, investors for each round, and governance and information rights obtained by investors
+Provide an organization chart illustrating the relationship between the entity and immediate parent, ultimate parent, intermediate parent, subsidiaries, and affiliates, identifying where each entity is incorporated
+Save the Potential Duplicative Funding Notice in a single PDF file with the title format: "ControlNumber_LeadOrganization_PDFN"
+Provide the name and phone number of the Designated Responsible Employee for complying with national policies prohibiting discrimination
+Submit all required documents in EERE eXCHANGE by 5 p.m.
+Submit the proposal by the dates specified on the cover page of the FOA
+- Pre-award costs cannot be incurred prior to the Selection Official signing the Selection Statement and Analysis
+- All work under awards from this FOA must be performed in the United States
+Provide a written assurance confirming compliance with Davis-Bacon Act requirements
+- Prepare and submit the Davis Bacon Semi-Annual Labor Compliance Report by April 21 and October 21 of each year
+Ensure timely electronic submission of weekly certified payrolls through the software for Davis-Bacon Act compliance
+Complete and submit SF-LLL for disclosure of lobbying activities
+Comply with government-wide suspension and debarment guidelines in 2 CFR 180
+- Individuals participating in a Foreign Government-Sponsored Talent Recruitment Program of a Foreign Country of Risk are prohibited from being part of projects selected for federal funding under this FOA.
+- Notify DOE within five (5) business days if an individual on the project team is believed to be participating in a foreign government talent recruitment program of a foreign country of risk.
+9. Provide a reasonable budget and spend plan detailed in the budget justification workbook.
+Applications must be evaluated according to the standards in EERE's Notice of Objective Merit Review Procedure and the DOE Merit Review Guide for Financial Assistance
+DOE must review and consider any responsibility and qualification information about the applicant in SAM.gov
+Receive notification from the Contracting Officer if Concept Paper or Full Application is ineligible
+- Applicants must designate a primary and backup point-of-contact in EERE eXCHANGE for award negotiations
+- Applicants must include the FOA name and number in the subject line when emailing about issues
+Have a Login.gov account to access EERE eXCHANGE, ensure email addresses match
+Use only one account as the contact point for each submission
+Register in SAM at https://www.sam.gov, designate an Electronic Business Point of Contact (E Biz POC), obtain a Marketing Partner ID Number (MPIN), update SAM registration annually
+Do not submit Letters of Intent, Concept Papers, or Full Applications through Grants.gov
+Submit the application and supplemental information electronically through DOE systems like EERE eXCHANGE and FedConnect
+Comply with the administrative requirements for DOE grants and cooperative agreements as outlined in 2 CFR Part 200 and 2 CFR Part 910
+Include executive compensation for own executives in SAM registration profile
+Confirm that the prime recipient has not been convicted of a felony criminal violation under federal law in the past 24 months
+Verify that the prime recipient does not have any unpaid federal tax liability that has been assessed and is not being paid in a timely manner
+Submit annual reports for 10 years from the date of disclosure on the utilization of subject inventions
+- Submit a continuation application at least ninety (90) days before the end of each budget period, including:
+Record UCC financing statements for equipment over $5,000 purchased with project funds
+Comply with the requirements for real property and equipment as outlined in 2 CFR 200.310, 200.311, 200.313, and 200.316 for non-profit entities and 2 CFR 910.360 for for-profit entities
+- Follow disposition requirements outlined in 2 CFR 910.360 for for-profit entities
+- Provide current and pending support disclosures and resumes for new PIs or senior/key personnel within 30 days of selection
+Include the FOA name and number in the subject line of emails
+Adhere to the DOE interim Conflict of Interest Policy for Financial Assistance
+Include all financial conflicts of interest (FCOI) in initial and ongoing FCOI reports for DOE-funded projects
+Comply with 2 CFR 200.113 Mandatory disclosures by disclosing violations of Federal criminal law involving fraud, bribery, or gratuity violations potentially affecting the Federal award
+Report certain civil, criminal, or administrative proceedings to SAM.gov as required by 2 CFR Part 200
+Comply with DOE Order 443.1C, 45 CFR Part 46, and 10 CFR Part 745 for research involving human subjects, biospecimens, or identifiable private information.
+Submit a cybersecurity plan to DOE before receiving funding
+Address questions in BIL section 40126 (b), Contents of Cybersecurity Plan
+DOE personnel are not allowed to communicate with applicants about the FOA except through the question and answer process
+Do not include trade secrets or confidential information in the application
+- Include FOA name and number in the subject line of emails
+Mark the cover sheet of the Full Application and other submissions as specified
+Identify specific pages containing trade secrets, business-sensitive, proprietary, or confidential information
+Clearly mark every line or paragraph containing such information with double brackets or highlighting
+Ensure non-federal reviewers sign conflict of interest (COI) and non-disclosure acknowledgements (NDA) before reviewing an application
+Exclude Personally Identifiable Information (PII) from all provided information
+- Do not include Social Security numbers in the application
+Provide Cash Cost Share for all contributions incurred and paid for during the project
+Provide cost sharing commitment letters from subrecipients with the original application
+Comply with DOE Financial Assistance Rules 2 CFR Part 200 as amended by 2 CFR Part 910
+- Name of the entity, point of contact, and proposed type of involvement in the project
+- Submit a risk assessment regarding IP and data protection protocols, including export control risk
+Submit a separate waiver request for each entity proposing work outside the United States
+- Applicant/Recipient name and Unique Entity Identifier (UEI)
+Include one SMART milestone in the R&D Community Benefits Plan for each budget period

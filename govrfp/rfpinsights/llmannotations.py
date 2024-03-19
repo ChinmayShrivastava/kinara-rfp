@@ -9,18 +9,20 @@ import ast
 # Logistics / Submission / Technial Volume : Type of File, Page Limits, Page number, etc.
 
 _llmannotations = [
-    "contains_evaluation_criteria",
-    "contains_performance_metrics",
-    "contains_required_certifications",
-    "contains_logistical_information",
-    "contains_logistical_requirements_for_submission",
-    "contains_statement_of_work",
-    "contains_supporting_documents_requirements",
-    "contains_scope_of_work",
-    "contains_technical_volume_requirements",
-    "contains_performance_work_statement",
-    "contains_pricing_requirements",
-    "is_good_to_have",
+    # "contains_evaluation_criteria",
+    # "contains_performance_metrics",
+    # "contains_required_certifications",
+    # "contains_logistical_information",
+    # "contains_logistical_requirements_for_submission",
+    # "contains_statement_of_work",
+    # "contains_supporting_documents_requirements",
+    # "contains_scope_of_work",
+    # "contains_technical_volume_requirements",
+    # "contains_performance_work_statement",
+    # "contains_pricing_requirements",
+    # "is_good_to_have",
+    "applies_directly_to_the_rfp_submission",
+    "doesn’t_apply_to_the_rfp_submission",
     "is_mandatory",
     "other"
 ]
