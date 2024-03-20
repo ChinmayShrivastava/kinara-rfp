@@ -1,0 +1,25 @@
+Based on the excerpt provided, the eligibility criteria for the RFP are as follows:
+
+1. Domestic Entities:
+- Institutions of higher education
+- For-profit entities
+- Nonprofit entities
+- State and local governmental entities, US territories, and Indian tribes
+- Consortia of entities described above
+- Must be organized, chartered, or incorporated under the laws of a particular state, territory, or tribe of the United States
+- Must have majority domestic ownership and control
+- Must have a physical place of business in the United States
+
+2. Ineligible Entities:
+- NETL (National Energy Technology Laboratory)
+- DOE/NNSA FFRDCs as prime recipients
+- Non-DOE/NNSA FFRDCs as prime recipients
+- Federal agencies and instrumentalities (other than DOE) as prime recipients
+- Entities banned from doing business with the U.S. government
+- Nonprofit organizations described in Section 501(c)(4) of the Internal Revenue Code of 1986 that engaged in lobbying activities after December 31, 1995
+
+3. Foreign Entities:
+- May be approved for a waiver in limited circumstances
+- Must submit a Full Application accompanied by a written waiver request
+- Must include specific information in the waiver request (listed in Appendix C)
+- The applicant does not have the right to appeal DOE's decision concerning a waiver request.

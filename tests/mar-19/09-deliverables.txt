@@ -1,0 +1,19 @@
+- Technical Volume: PDF, 30 pages, ControlNumber_LeadOrganization_TechnicalVolume
+- Resumes: PDF, 3 pages each, ControlNumber_LeadOrganization_Resumes
+- Letters of Commitment: PDF, 1 page each, ControlNumber_LeadOrganization_LOCs
+- Statement of Project Objectives: MS Word, 7 pages, ControlNumber_LeadOrganization_SOPO
+- SF-424: Application for Federal Assistance: PDF, no page limit, ControlNumber_LeadOrganization_App424
+- Budget Justification Workbook: MS Excel, no page limit, ControlNumber_LeadOrganization_Budget_Justification
+- Summary/Abstract for Public Release: PDF, 1 page, ControlNumber_LeadOrganization_Summary
+- Summary Slide: MS PowerPoint, 1 slide, ControlNumber_LeadOrganization_Slide
+- Subrecipient Budget Justification: MS Excel, no page limit, ControlNumber_LeadOrganization_Subrecipient_Budget_Justification
+- DOE Work Proposal for FFRDC: PDF, no page limit, ControlNumber_LeadOrganization_WP
+- Authorization from cognizant Contracting Officer for FFRDC: PDF, no page limit, ControlNumber_LeadOrganization_FFRDCAuth
+- SF-LLL Disclosure of Lobbying Activities: PDF, no page limit, ControlNumber_LeadOrganization_SF-LLL
+- Foreign Entity Waiver Requests and Foreign Work Waiver Requests: PDF, no page limit, ControlNumber_LeadOrganization_Waiver
+- R&D Community Benefits Plan: PDF, 5 pages, ControlNumber_LeadOrganization_CBP
+- Current and Pending Support: PDF, no page limit, ControlNumber_LeadOrganization_CPS
+- Location(s) of Work: Excel, no page limit, ControlNumber_LeadOrganization_LOW
+- Transparency of Foreign Connections: PDF, no page limit, BusinessSensitive_ControlNumber_LeadOrganization_TFC
+- Potentially Duplicative Funding Notice: PDF, no page limit, ControlNumber_LeadOrganization_PDFN
+- Data Management Plan: PDF, no page limit, ControlNumber_LeadOrganization_DMP

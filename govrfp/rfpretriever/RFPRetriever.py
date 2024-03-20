@@ -30,7 +30,7 @@ class RFPRetriever(RFPParser):
         if not self.nodes:
             self.chunks()
             # annotate
-            self._annotaterfp()
+            # self._annotaterfp()
         self.chroma_index = VectorStoreIndex.from_documents(
             self.documents,
             transformations=[self.splitter]
@@ -43,7 +43,7 @@ class RFPRetriever(RFPParser):
         self.retriever = QueryFusionRetriever(
             [self.chroma_retriever],
             retriever_weights=[1],
-            similarity_top_k=10,
+            similarity_top_k=40,
             num_queries=3,  # set this to 1 to disable query generation
             mode="relative_score",
             use_async=False,
