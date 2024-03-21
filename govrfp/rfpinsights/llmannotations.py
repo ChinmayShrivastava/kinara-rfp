@@ -21,10 +21,16 @@ _llmannotations = [
     # "contains_performance_work_statement",
     # "contains_pricing_requirements",
     # "is_good_to_have",
-    "applies_directly_to_the_rfp_submission",
-    "doesn’t_apply_to_the_rfp_submission",
-    "is_mandatory",
-    "other"
+    # "applies_directly_to_the_rfp_submission",
+    # "doesn’t_apply_to_the_rfp_submission",
+    # "is_mandatory",
+    # "other"
+    'is_formatting_compliance',
+    'is_finance_compliance',
+    'is_legal_compliance',
+    'is_technical_compliance',
+    'is_mandatory',
+    'other'
 ]
 
 text_representation = "\n".join(_llmannotations)

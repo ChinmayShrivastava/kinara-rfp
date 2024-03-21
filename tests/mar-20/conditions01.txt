@@ -1,0 +1,70 @@
+- The applicant must provide advanced written notification to DOE of any potential collaboration with foreign entities, organizations, or governments in connection with its DOE-funded award scope.
+- The applicant must await further guidance from DOE prior to contacting proposed foreign entities, organizations, or governments regarding potential collaborations or negotiating terms of any potential agreement.
+- The applicant must provide DOE with a written list of all existing foreign collaborations entered into in connection with its DOE-funded award scope.
+- The applicant must report collaborations that involve the provision of a thing of value to or from the recipient, including resources made available in support of and/or related to the DOE award, regardless of monetary value.
+- The applicant must report in-kind contributions not intended for direct use on the DOE award but resulting in the provision of a thing of value from or to the DOE award.
+- The applicant must not include routine workshops, conferences, use of recipient's services and facilities by foreign investigators, or routine use of foreign facilities by awardee staff in collaborations.
+- The application should be evaluated based on the concept paper criterion of overall FOA responsiveness and viability of the project, with all sub-criteria being of equal weight.
+- The applicant must clearly describe the proposed technology, how it is unique and innovative, and how it will advance the current state-of-the-art.
+- The applicant must identify risks and challenges of the technology, regulatory and financial aspects of the proposal, including possible mitigation strategies, and show the impact that EERE funding and the proposed project would have on the relevant field and application.
+- The applicant must have the qualifications, experience, capabilities, and other resources necessary to complete the proposed project.
+- The proposed work, if successfully accomplished, must clearly meet the objectives as stated in the FOA.
+- The application should demonstrate the extent to which the proposed technology, process, or project is innovative or replicable.
+- The application should clearly describe the current state of the technology and the proposed advancement.
+- The application should convincingly demonstrate how the applicant will move the state of the art to the proposed advancement.
+- The application should provide sufficient technical detail to assess whether the proposed work is scientifically meritorious and revolutionary, including relevant data, calculations, and discussion of prior work with analyses that support the viability of the proposed work.
+- The application should consider key manufacturing and supply chain challenges for viable scale-up in this and future demonstrations.
+- The application should consider siting and environmental constraints for deployment.
+- The application should have the potential to reduce emissions and provide clean energy acceleration benefits for a community or region.
+- The application should have sufficient existing infrastructure to support the addition of the proposed demonstration.
+- The applicant must demonstrate the ability of the project to advance industry adoption.
+- The applicant must show the extent to which the project supports the topic area objectives and target specifications and metrics.
+- The applicant must assess the potential impact of the project on advancing the state of the art.
+- The applicant must ensure that demonstration/deployment is replicable and may lead to future demonstrations.
+- The applicant must facilitate stakeholder relationships across new or existing stakeholders to gain technical buy-in and increase potential for future deployments.
+- The applicant must propose adequate project management systems to track scope, cost, and schedule progress and changes.
+- The applicant must provide a reasonable budget and spend plan detailed in the budget justification workbook.
+- The applicant must establish a sound project schedule with periodic Go/No-Go decisions, interim milestones, and metrics to track progress.
+- The applicant must identify risks, including labor and community opposition or disputes, and provide timely and appropriate strategies for mitigation and resolution.
+- The application should clearly describe and thoughtfully consider the approach and critical path for project demonstration and market transformation.
+- The application should provide clear, detailed, timely, and reasonable task descriptions to ensure the success of the Workplan and SOPO in meeting project goals.
+- The applicant must discuss and demonstrate an understanding of key technical risk areas involved in the proposed work and provide quality mitigation strategies.
+- The applicant must provide a clear definition of the baseline, metrics, and milestones.
+- The application should define quantifiable metrics, milestones, and mid-point deliverables relative to a project baseline.
+- The applicant must identify the target market, competitors, and distribution channels for the proposed technology, including barriers to market penetration and a mitigation plan.
+- The application should have a comprehensive market transformation plan covering product development, commercialization timeline, financing, product marketing, legal/regulatory considerations, intellectual property, infrastructure requirements, Open-source Software Distribution Plan, and product distribution.
+- The applicant must identify the interest and extent of industry adoption of the technology/process.
+- The application should demonstrate the capability of the project manager(s) and the proposed team to address all aspects of the proposed work successfully.
+- The applicant must ensure diversity of expertise and perspectives within the team, including industry partners.
+- The application should provide appropriate resources in the budget to ensure livable wages and benefits for all employees involved in the project.
+- The applicant must have sufficient facilities to support the work.
+- The application should demonstrate the ability to facilitate and expedite further demonstration, development, and commercial deployment of the proposed technologies.
+- The applicant must show the level of participation by project participants through letters of commitment and integration into the Workplan.
+- The application should have a reasonable budget and spend plan for the proposed project and objectives.
+- The applicant must clearly articulate the project’s goals related to diversity, equity, inclusion, and accessibility.
+- The applicant must demonstrate the quality of the project’s DEIA goals through depth, breadth, likelihood of success, inclusion of appropriate and relevant SMART milestones, and overall project integration.
+- The applicant must show commitment and ability to track progress toward meeting each of the DEIA goals.
+- The applicant must engage organizations that represent disadvantaged communities as a core element of their mission, including Minority Serving Institutions (MSIs), Minority Business Entities, and nonprofit or community-based organizations.
+- The applicant must have a clear workplan for engaging energy equity stakeholders and evaluating the possible near- and long-term implications of the project for the benefit of the American public, including public health and public prosperity benefits.
+- The applicant must demonstrate an approach, methodology, and expertise for addressing energy equity and justice issues associated with the technology innovation.
+- The applicant must show the likelihood that the plan will result in improved understanding of distributional public benefits and costs related to the innovation if successful.
+- The applicant must have clear and comprehensive workplan tasks, staffing, research, and timeline for engaging workforce stakeholders and evaluating the possible near- and long-term implications of the project for advancing and retaining good jobs for the U.S. workforce.
+- The applicant must document the knowledge, skills, and abilities of the workforce required for successful commercial deployment of innovations resulting from this research.
+- The applicant must show the likelihood that the plan will result in improved understanding of the workforce implications related to the innovation if successful.
+- The application will be evaluated in accordance with the standards set forth in EERE’s Notice of Objective Merit Review Procedure and the DOE Merit Review Guide for Financial Assistance.
+- The proposed project must exhibit technological diversity compared to the existing DOE project portfolio and other projects selected from the subject FOA.
+- The proposed project must optimize the use of available DOE funding to achieve programmatic objectives.
+- The level of industry involvement and ability to accelerate demonstration and commercialization must be demonstrated.
+- The proposed project should lead to increased high-quality employment and manufacturing in the United States.
+- The proposed project should accelerate transformational technological advances in areas that industry may not undertake due to technical and financial uncertainty.
+- The proposed project should represent a desired geographic distribution.
+- The proposed project should incorporate team members from Minority Serving Institutions and partnerships with Minority Business Enterprises, woman-owned businesses, veteran-owned businesses, or Indian tribes.
+- The proposed project should contribute to the total portfolio meeting the goals reflected in the Community Benefits Plan criteria.
+- The applicant must employ procurement of U.S. iron, steel, manufactured products, and construction materials.
+- The applicant must collectively represent a diversity of applicant types and sizes of applicant organizations.
+- The applicant must have broad public support from the communities most directly impacted by the project.
+- The applicant must avoid duplication/overlap with other publicly or privately funded work.
+- The applicant must support complementary efforts or projects that best achieve the research goals and objectives.
+- The applicant must enable new and expanding market segments.
+- The applicant must maximize deployment or replication with their solution or strategy.
+- The applicant must promote increased coordination with nongovernmental entities for demonstration of technologies and research applications to facilitate technology transfer.
