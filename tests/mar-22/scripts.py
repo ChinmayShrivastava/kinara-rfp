@@ -11,6 +11,7 @@ class DocExtraction(RFPActions):
         verbose: bool = False
     ):
         super().__init__(pdf_path, verbose=verbose)
+        self.callbacks = Callbacks()
 
     def run(self):
         self._run_extraction_pipeline()

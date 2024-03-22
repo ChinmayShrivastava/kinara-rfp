@@ -1,5 +1,8 @@
 from typing import Callable, Dict, List
 
+from llmchains.extractionchain import ExtractionChain
+from llmchains.prompts import (COMPLIANCE_PROMPT, EVAL_CRITERIA_PROMPT,
+                               IMPORTANT_DATES_PROMPT, RFP_INFO_PROMPT)
 from pdf_page_annotator import PDFAnnotator
 from python_state_manager import StateManager
 from state.rfpstate import Callbacks, statemetadatas, statevalues
@@ -16,8 +19,6 @@ class RFPActions:
         self.annotator = PDFAnnotator(pdf_path, verbose=verbose)
         self.reader = self.annotator.reader
         self.verbose = verbose
-
-        # self.pdf_annotator = pdf_annotator
         self.state_manager = StateManager(
             stateids=statevalues,
             statevalues=statevalues,
@@ -25,8 +26,6 @@ class RFPActions:
             currentstateid='init'
         )
         self.complete = False
-        self.callbacks = Callbacks()
-
 
     def initializing(self):
         print("Initializing")
@@ -38,10 +37,22 @@ class RFPActions:
         currentstate.metadata["annotations"] = self.annotator.contents
 
     def rfp_info(self):
-        print("Extracting RFP info")
+        chunks = self.get_relevant_chunks('rfp_info')
+        info = []
+        e = ExtractionChain(
+            prompt=RFP_INFO_PROMPT,
+        )
+        for chunk in chunks:
+            info.extend(e.invoke(chunk))
 
     def important_dates(self):
-        print("Extracting important dates")
+        chunks = self.get_relevant_chunks('important_dates')
+        dates = []
+        e = ExtractionChain(
+            prompt=IMPORTANT_DATES_PROMPT,
+        )
+        for chunk in chunks:
+            dates.extend(e.invoke(chunk))
 
     def eligibility(self):
         print("Extracting eligibility info")
