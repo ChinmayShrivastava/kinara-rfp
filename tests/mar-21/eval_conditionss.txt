@@ -1,0 +1,56 @@
+- The applicant must adhere to the submission guidelines in section 3 of the RFQ.
+- The application should provide their best quote with initial submissions.
+- The application should not have any missing volumes/sections, required plans, documentation, pricing, etc.
+- The application should not have any minor technical or administrative errors.
+- The application should be evaluated based on Technical Capability/Risk, Past Performance, and Price.
+- The application must understand that Technical Capability/Risk is more important than Past Performance.
+- The applicant must achieve a rating of Technically Acceptable or higher and have a Past Performance rating of at least Neutral Confidence to be considered for award.
+- The application should identify any assumptions that may impact price in response to the PWS.
+- The application must be complete, clear, and compliant with the terms of the RFQ.
+- The applicant must demonstrate the ability to deliver the specified requirements of the PWS through a proposed plan for overall implementation and execution.
+- The application should include a Career Development and Counseling Plan (CDCP) that is thorough and comprehensive based on the requirements detailed in PWS section 2.3.1.
+- The application must propose methods for conducting and utilizing mid-point assessments and stakeholder surveys to track developmental progress and identify areas for improvement as detailed in PWS section 2.3.1.2.
+
+- The quote must demonstrate innovative approaches to career path development and their feasibility within ARPA-H’s organizational framework.
+- The quote must prioritize strategies that are clear, technically sound, and demonstrate a practical approach to aligning individual career aspirations with ARPA-H’s mission and operational needs.
+- The quote must adhere to the Outplacement Services Framework requirements outlined in PWS Section 2.3.5.1.
+- The quote should design and implement effective training programs supportive of ARPA-H’s requirements.
+- The quote must meet the requirements of PWS Section 2.3.3.2 and adhere to the Proposed Customize Training Framework Guide in PWS Exhibit 1.
+- The quote must meet the Leadership Coaching Framework requirements specified in PWS Section 2.3.4.1.
+- The quote must outline a project management approach in their PMP that is specific and responsive to the requirements detailed in PWS Section 2.3.3.1.
+- The quote must include a strategy for continuous improvement and innovation as detailed in PWS Section 2.3.3.2.
+- The quote must include a Quality Control and Management Oversight Plan as outlined in PWS Sections 2.3.3.4 and 2.5.1 to ensure contract quality and management oversight.
+- The applicant must provide a Contingency Plan that comprehensively addresses contract contingencies, excusable delays, business disruptions, and potential service interruptions as per PWS Sections 2.3.3.8  
+- The application should detail the risks associated with the proposed approaches in the submitted plans, strategies, and frameworks, emphasizing the identification, mitigation, and management of risks in accordance with the proposed methods and capabilities of their staffing  
+- The applicant must have corporate experience working with other Advanced Research Projects Agency (ARPA) organizations or start-up companies, which will be favorably considered in the evaluation process  
+- The application should submit plans, strategies, or frameworks with sufficient detail to enable a comprehensive assessment of the approach, incomplete or insufficiently detailed submissions may receive a marginal or unacceptable rating  
+- The applicant must be evaluated based on a combined Technical/Risk rating, considering risk in conjunction with strengths, weaknesses, and deficiencies identified in the quote in determining technical ratings
+
+- The applicant must indicate a thorough approach and understanding of the requirements
+- The applicant must contain at least one strength
+- The risk of unsuccessful performance is low to moderate
+- The applicant must meet requirements
+- The applicant must indicate an adequate approach and understanding of the requirements
+- The risk of unsuccessful performance is no worse than moderate
+- The applicant has not demonstrated an adequate approach and understanding of the requirements
+- The risk of unsuccessful performance is high
+- The applicant does not meet requirements of the solicitation
+- The applicant contains one or more deficiencies
+- The applicant is unawardable
+- The risk of performance is unacceptably high
+- Quotes receiving a rating of Marginal or Unacceptable will be ineligible for award
+- The Past Performance evaluation factor assesses the degree of confidence in a Vendor's ability to perform services successfully
+- Recency, relevancy, and quality of past performance will be considered
+- Recency is defined as having been completed or at least 25% completed in the last three years from the quote due date
+- The applicant must exhibit similar work required by the RFQ as detailed in the PWS.
+- The application should provide past performance information through various sources such as PPIRS, questionnaires, customers, and federal contracts.
+- The applicant's past performance references will not be directly compared to other vendors, but an overall Confidence Rating will be used for best value determination.
+- Negative past performance under prior contracts may result in an overall negative past performance rating.
+- Vendors may address adverse past performance information, which will be considered in the evaluation.
+- Vendors without recent or relevant past performance will receive a "neutral confidence" evaluation rating.
+- The applicant's past performance will be rated for recency, with Recent performance within the last three years and Not Recent performance outside of the last three years.
+- Past Performance references that are not recent will be excluded from the overall confidence rating.
+- The applicant must have a past performance rating in accordance with FAR 15.305(a)(2)(iv).
+- The application should have past performance that is very relevant, relevant, somewhat relevant, or not relevant based on the scale provided.
+- The applicant must receive an overall confidence assessment rating based on past performance recency, relevancy, and quality.
+- The application should receive a substantial confidence rating if the Government has a high expectation of successful performance based on recent/relevant performance record.

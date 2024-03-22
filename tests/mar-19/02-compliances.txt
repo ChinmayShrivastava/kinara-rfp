@@ -1,0 +1,422 @@
+Submit invoices to the address in block 18a
+Ensure payment is made by facility code CODE F
+Provide the remittance address if different from the offer address
+None
+None
+- Provide the mailing address of the authorized government representative
+- Include the date and signature of the authorized government representative
+- Ensure the quantity in column 21 has been received and inspected
+- Include the S/R voucher number, S/R account number, and check number for payment
+- Verify the amount is correct for the voucher number and ship number
+- Provide the e-mail of the authorized government representative
+- Include the total number of containers received, date received, location received at, and name of the person who received it
+- Include the date, signature, and title of the certifying officer
+- Certify that the account is correct and proper for payment
+Provide leadership coaching services for 40 employees
+Include all costs associated with leadership coaching services per employee per month
+Cover personnel costs, coaching materials, overhead, and any other direct and indirect costs in the price
+Bill travel costs separately as other direct costs on a case-by-case basis
+Include the telephone number and printed name/title of the authorized government representative
+- Task 5 Outplacement Services: Provide a price that covers all costs for offering outplacement services to employees
+- Other Direct Cost ODC (Travel) CLINs: Structure this as a Time-and-Material (T&M) CLIN with a "Not to Exceed" amount of $20,000 per year
+- Task 1, 2, and 6 (Combined): Include all costs associated with Employee Development, Career Alignment, and Program and Contract Management in the price, to be billed monthly
+Product/Service Code: R431
+Product/Service Description: SUPPORT- PROFESSIONAL: HUMAN RESOURCES
+Period of Performance: 07/01/2025 to 06/30/2026
+Task 3 Customized Training (10 sub-CLINs): Specify the cost for a specific training program per employee per month for each sub-CLIN.
+- The cost proposal should include all expenses related to designing, developing, and delivering the training
+- The total price should reflect the total price of all proposed training at the sub CLIN level
+- Travel costs, if applicable, will be billed separately as another direct cost on a case-by-case basis
+- The price for Task 4 Leadership Coaching should cover all costs associated with providing leadership coaching services per employee per month
+- Travel costs, if applicable, will be billed separately as another direct cost on a case-by-case basis
+- The price for Task 5 Outplacement Services should encompass all costs associated with offering outplacement services to employees during times of transition per employee per month
+Provide support professional human resources services
+Perform services from July 1, 2025, to June 30, 2026
+Include Other Direct Cost (ODC) related to travel
+Adhere to FAR (48 CFR) 53.110
+- Provide a Material (T&M) CLIN with a 'Not to Exceed' amount of $20,000 per year
+- Reimburse all approved travel in accordance with PWS section (2.16.2) using the CLIN
+- List the Product/Service Code as R431
+- Describe the Product/Service as SUPPORT-PROFESSIONAL: HUMAN RESOURCES
+- Specify the Period of Performance as 07/01/2025 to 06/30/2026
+- Include all costs associated with Employee Development, Career Alignment, and Program and Contract Management in the combined price for Task 1, 2, and 6
+- Bill the combined price monthly
+- Specify the Period of Performance for Task 1, 2, and 6 as 07/01/2026 to 06/30/2027
+- Provide 10 sub-CLINs for Task 3 Customized Training
+- Specify the cost for a specific training program per employee per month in each sub-CLIN
+- Include all expenses related to designing, developing, and delivering the training in the cost
+- Bill travel costs separately as an other direct cost on a case-by-case basis
+Provide leadership coaching services for each employee per month
+Include all costs associated with leadership coaching in the price
+Cover personnel costs, coaching materials, overhead, and other direct and indirect costs
+Include travel costs if applicable
+- Provide a price for Task 5 Outplacement Services that includes all costs associated with offering outplacement services to employees
+- List all costs related to establishing an outplacement framework, providing individualized career counseling, resume building, job search strategies, interview preparation, and networking guidance
+- Structure the Other Direct Cost ODC (Travel) CLIN as a Time-and Material (T&M) CLIN with a "Not to Exceed" amount of $20,000 per year
+- Reimburse all approved travel in accordance with PWS section (2.16.2) using the ODC (Travel) CLIN
+- Provide a combined price for Task 1, 2, and 6 that includes all costs associated with Employee Development, Career Alignment, and Program and Contract Management
+- Ensure the price will be billed monthly
+- Include personnel costs, materials, overhead, and any other direct and indirect costs in the price
+- Specify the cost for each training program per employee per month
+- Include all expenses related to designing, developing, and delivering the training
+- List all resources such as trainers, materials, facilities, equipment, etc.
+- Reflect the total price of all proposed training at the sub CLIN level
+- Bill travel costs separately as other direct costs on a case-by-case basis
+- Cover all costs associated with providing leadership coaching services per employee per month
+- Include personnel costs, coaching materials, overhead, and other direct and indirect costs
+- Bill travel costs separately as other direct costs on a case-by-case basis
+- Encompass all costs associated with offering outplacement services to employees during times of transition per employee per month
+None
+- Ensure all approved travel expenses are reimbursed using the ODC (Travel) CLIN
+- List all costs associated with Task 1, 2, and 6 in the combined price
+- Bill the combined price for Task 1, 2, and 6 monthly
+- Specify the cost for each sub-CLIN for Task 3 Customized Training
+- Include all expenses related to designing, developing, and delivering training in the cost for Task 3 Customized Training
+Separately bill travel costs if applicable
+Provide travel costs as a direct cost on a case-by-case basis
+Product/Service Code: R431
+Product/Service Description: SUPPORT-PROFESSIONAL: HUMAN RESOURCES
+Period of Performance: 07/01/2028 to 06/30/2029
+Task 4 Leadership Coaching: Price for 40 EA
+- Task 4 Leadership Coaching Services: Cover all costs associated with providing leadership coaching services per employee per month
+- Task 5 Outplacement Services: Include all costs related to offering outplacement services to employees during transitions per employee per month
+- Travel costs billed separately as other direct cost on a case-by-case basis, not to exceed $20,000 per year
+None
+None
+- Comply with the Privacy Act Requirements
+- Submit quotes according to the Quote Submission section
+- Follow the Quote Format guidelines for submission
+- Include technical capability and risk assessment in Volume I
+- Provide past performance references in Volume II
+- Include price quotes in Volume III
+None
+None
+Submit a quote for Career Lifecycle Management Support (CLMS) services
+Provide a hybrid Firm Fixed-Price (FFP) and Time and Materials (T&M) proposal
+Use NAICS code 611430 for Professional and Management Development Training
+Agree to hold prices firm for 120 calendar days from the receipt of quotations
+Organize the proposal according to FAR 12.6 Streamlined Procedures
+Include contracting information in Section 1
+Include objectives and technical requirements in Section 2
+Follow instructions for quote submission in Section 3
+- Familiarize with Section 4 for evaluation factors and award process
+- Review Section 5 for solicitation provisions and contract clauses
+- Examine Section 6 for RFQ attachments and exhibits
+- Comply with Simplified Acquisition Procedures (SAP) for CLMS services
+- Ensure adherence to FAR subpart 13.5 for Simplified Procedures for Certain Commercial Products and Commercial Services
+- Provide information on the North American Industry Classification System (NAICS)
+Compliance Requirements:
+
+- The NAICS code 611430 and size standard of $15M applies to this RFQ
+- This acquisition is set aside for Small Business (SB) in accordance with FAR clause 52.219-6
+- Vendors must state their size standard at the time of quote submission
+- Misrepresentation of a firm's status as an SB concern will result in penalties
+- Vendors must disclose any actual or potential Organizational Conflict of Interest (OCI) to ARPA-H in accordance with FAR subpart 9.5
+- Disclosure of OCI may be made via memo on Vendor company letterhead and included under a separate tab in Volume I of the Vendor's quote
+- Vendors must disclose information concerning actual or potential conflicts with any quote relating to any work in the contract for the duration of the contract term
+- All actual or potential OCI situations shall be handled by the Contracting Officer (CO) in accordance with FAR subpart 9.5
+Avoid any conflicts of interest
+Do not favor any marketing efforts related to the scope of the CLMS requirement
+Do not restrict the conception, design, or configuration of analyses, recommendations, or findings
+Provide a description of service(s) or product(s)
+List the number and names of any sub-contractors, if any
+Government intends to award based on Best Value Trade-Off (BVTO)
+Successful quotes must meet or exceed acceptability standards
+- Do not incur any costs related to the preparation, submission, and/or award of the quote
+- Address all correspondence regarding the RFQ to the designated points of contact
+- Do not use, disclose, or reproduce Personally Identifiable Information (PII) without authorization
+- Maintain strict confidentiality and prevent unauthorized duplication, use, and disclosure of sensitive information relating to the RFQ and any subsequently awarded contract
+Restrict access to information to authorized employees and subcontractors
+Use information provided by the Government only for the purposes of the contract
+Sign an ARPA-H non-disclosure agreement
+Do not use or disclose proprietary or sensitive information for any other purpose without written permission
+Consult with the CO or COR if uncertain about the use of provided information
+Assume responsibility for protecting the confidentiality of all Government records
+Notify employees that information may only be disclosed as authorized
+All Vendor personnel with access to ARPA-H personnel usage data must sign a Certificate of Non-Disclosure
+Retain all Non-Disclosure certificates in the contract file
+Government reserves all rights to documents, data, or software developed under the contract
+All data created as a result of the contract remains the property of the Government
+Follow Quotation Instructions in RFQ Section 3.5 Volume IV for any exceptions to data rights
+Submit quotes electronically via email to Acquisitions@ARPA-H.GOV
+Ensure electronic copies are received by the designated closing time and date
+Attachments must be in Adobe Acrobat format
+- Submit attachments in Adobe Acrobat/.pdf file format
+- Password protect attachments for "read only"
+- Include vendor's representative's signature in attachments
+- Ensure email size is no more than 10 MB
+- Verify successful receipt of quote by contacting CO before closing time
+- Timely submission of quote to avoid rejection
+- Resubmit unreadable/inaccessible quotes as directed by CO
+- Identify RFQ Number and Closing Date and Time on all electronic correspondence
+Submit electronic quotes by April 15th, 2024, 4:00 PM EDT
+Do not submit quotes via facsimile
+Submit quotes by the specified date
+Send any questions via email to Acquisitions@ARPA-H.GOV
+Submit questions by 12:00 PM EDT on March 27, 2024
+No questions will be accepted after the deadline
+Provide a pricing schedule with the following details:
+- Task descriptions, estimated quantities, unit prices, and total estimated prices for each task
+- Base Year: July 1, 2024, through June 30, 2025
+- Option Year 1: July 1, 2025, through June 30, 2026
+- Include all tasks specified in the schedule, including Employee Development, Career Management, Career Alignment, Contract Management, Customized Training, Leadership Coaching, and Outplacement Services
+- Ensure the total estimated value for the Base Year is $20,000
+- Include Other Direct Costs (ODC) such as Travel with a Not-to-Exceed (NTE) value of $20,000
+None
+None
+- Provide pricing for CLIN 1001 and all applicable Option Year CLINS: Task 1, 2, and 6 combined, covering all costs related to Employee Development, Career Alignment, and Program and Contract Management
+- Ensure the price for CLIN 1001 and applicable Option Year CLINS is billed monthly
+- Specify costs for CLIN 1002 and all applicable Option Year CLINS: Task 3 Customized Training (10 sub-CLINs) for each specific training program/course per employee
+- Include all expenses for designing, developing, and delivering the training in the cost
+- Reflect the all-inclusive price of all proposed training at the sub CLIN level per employee in CLIN 1002 overall unit price
+- Incorporate any discounts or price adjustments for full program participation in the pricing
+- Discounts are not mandatory for the proposal
+- The government will calculate contract value using the all-inclusive unit price multiplied by the estimated quantity.
+- Provide an all-inclusive training program or specific training based on fixed unit prices
+- Bill travel costs separately as an other direct cost on a case-by-case basis
+- For CLIN 1003 and applicable Option Year CLINS, cover all costs for leadership coaching services per employee per month
+- Include personnel costs, coaching materials, overhead, and any other direct and indirect costs in the price
+- Bill travel costs separately as an other direct cost on a case-by-case basis for leadership coaching services
+- For CLIN 1004 and applicable Option Year CLINS, cover all costs for outplacement services per employee per month
+- Include costs for establishing an outplacement framework, individualized career counseling, resume building, job search strategies, interview preparation, and networking guidance in the price
+- Anticipate separate Task Orders for CLIN 1002 and issue all other CLINS in one Task Order
+- Be aware that the arrangement is subject to change upon final award
+- Ensure CLIN 1005 and associated option CLINs are used for Other Direct Costs related to Travel
+- Structure CLIN 1005 as a Time-and-Material (T&M) CLIN with a "Not to Exceed" amount of $20,000 per year
+- Reimburse all approved travel in accordance with PWS section 2.16.2 using CLIN 1005
+- Base the number of sub-CLINs for CLIN 1002 and applicable option year CLINs on the number of proposed training courses offered
+- Include additional trainings and pricing in a continuation sheet if 10 sub-CLINs are not sufficient
+- Fill in the price for the sub-CLINs corresponding to the number of proposed training or programs offered
+- Ensure the Pricing Schedule and CLIN structure will be adjusted upon contract award and Task Order issue to align with the proposed offer
+- Ensure the minimum quantity of services will be equal to $5,000 in accordance with FAR 16.504 for Indefinite-Quantity contracts
+Incorporate the PWS as Attachment 1 in the solicitation
+Follow the format and content specified for responding to the RFQ
+Provide adequate documentation for a thorough evaluation of the quote
+Submit a quote that clearly describes the response to the RFQ requirements
+Acknowledge receipt of any amendments to the RFQ by submitting a signed SF30
+Submit quotes electronically via email to Acquisitions@ARPA-H.GOV
+Include "VENDOR NAME Quote for RFQ 75N992-24-Q-00001 Career Lifecycle Management Support Service" in the subject line of the email
+Ensure quotes are received by the closing date and time specified in the RFQ section 1.11 Quote Submission
+Show the RFQ number, name, address, email address, and telephone number on the first page of the quote
+Include a statement agreeing to all terms, conditions, and provisions in the RFQ
+Provide names, titles, signatures, telephone, and electronic addresses of authorized negotiators
+Include evidence of agent's authority if the quote is signed by an agent
+Submit quotes and any modifications to the designated Government office by the specified time in the RFQ
+Ensure quotes are valid for 120 days unless a different period is proposed
+Submit quotes in four separate volumes: Technical Capability/Risk, Past Performance, Price Quote, Contract Documentation
+Do not include pricing data in the Non-Price Volume or transmittal letter
+Follow the specified page limits for each volume
+Use 8.5 by 11 inches or 11 by 8.5 inches page size
+Use single-spaced, 11-point font for text, 10-point font for specific elements
+Use a font size of at least 5 point for charts, graphs, and figures/diagrams
+Maintain 1-inch margins on the top, bottom, and sides of every page
+Number pages sequentially by volume
+Apply page format restrictions to responses to clarifications or additional requests for information
+Do not exceed page limitations
+Exclude cover pages, table of contents, cross-reference matrix, tabs, and glossaries from page count
+Count each side of a page printed on separately
+- Clearly describe the approach and demonstrate understanding of the requirement
+- Do not include pricing information in Volume I
+- Provide an introduction (1 page maximum) summarizing key aspects of the proposal
+- Include Section 1 on Employee Development and Career Management Support (6 pages maximum)
+- Submit a Career Development and Counseling Plan (CDCP) as described in PWS section 2.3.1.1
+- Detail a comprehensive approach to employee development and career management support services
+- Present a Career Alignment Strategy as outlined in PWS Section 2.3.2.1
+- Articulate the approach and methodology for designing career plans aligned with the mission
+- Demonstrate understanding of organizational dynamics and integration of individual and organizational goals in the strategy
+- Include an Outplacement Services Framework according to PWS section 2.3.5.1
+Describe the strategy for assisting employees with limited employment terms
+Outline specific protocols to maintain service scope, excluding active assistance or job placement services
+Submit a Customized Training and Leadership Coaching plan within 6 pages
+- Address the capability to design, implement, and manage customized training programs
+- Include a Training and Development Plan (TDP) and an initial curriculum with training courses
+- Provide a Leadership Coaching Framework as per PWS Section 2.3.4.1
+- Identify the Contract Manager (CM) and Performer Program Manager (PPM) with contact information
+- Detail the approach to meeting contract operations and staffing requirements
+- Include a Project Management Plan (PMP) with an Innovation and Continuous Improvement Strategy
+- Outline quality assurance procedures with a Quality Control and Management Oversight Plan
+- Include a Contingency Plan for contract contingencies
+- Identify a minimum of three (3) to a maximum of five (5) recent and relevant past performance references within the last three years
+Relate past performance to Career Lifecycle Management Support services
+Focus on experiences relevant to the RFQ requirements
+Limit past performance descriptions to one page per reference
+Demonstrate the relevance of experiences to RFQ requirements and proposed approach
+Provide information for evaluation from various sources, including inquiries and other known sources
+Government reserves the right to seek additional information from other sources
+- Provide detailed, current, accurate, and complete past performance information
+- Document contracts held in the past three years with relevant scope and complexity
+- Include a minimum of three and a maximum of five referenced contracts with point of contact information
+- Ensure contact information for those contracts is current and accurate
+- Provide a summary description of the task requirements of each referenced contract
+- Reference the relevancy of these tasks to those requirements in the PWS
+- Include the total dollar value of each contract referenced and description of the level of effort
+- Explain any actions taken to resolve problems to the satisfaction of all parties
+- Provide specific details about the role subcontractors played in the referenced project
+- Use the provided Price Quotation Worksheet to provide a firm fixed price for all services described
+- Factor all costs associated with performance into the quoted price
+- The number of sub-CLINs for CLIN 1002 and applicable option year CLINs are based on the number of proposed training courses offered.
+Add or remove rows in Attachment 2 as needed for training offerings
+Include a signed letter stating any exceptions to the Government's requirements or accepting all terms and conditions of the solicitation
+Provide names, titles, signatures, telephone, and electronic addresses of authorized negotiators
+Submit a copy of the Vendor's active Reps and Certs for Commercial Products and Commercial Services
+Sign the SF 1449 form for Commercial Items
+Sign the SF 30 form for Amendments to RFQs
+Confirm valid and active System for Awards Management Registration (SAM) with expiration date and intent to renew and maintain registration during the contract performance period
+Submit the proposal in accordance with FAR Subpart 13.5
+The contract will be awarded to the quoter that provides the best value
+The Government may engage in exchanges with vendors if necessary
+Provide the best quote with initial submission
+The Government may conduct discussions with quoters if advantageous
+Minor technical or administrative errors may be clarified
+Ensure the quote adheres to submission guidelines in section 3 of the RFQ
+Quotes that fail to adhere to guidelines may be eliminated from consideration
+Ensure compliance with HHSAR Part 323.701 for sustainable acquisition requirements
+Factor 1: Technical Capability/Risk will be evaluated
+Factor 2: Past Performance will be evaluated
+Factor 3: Price will be evaluated
+Factor 1, Technical Capability/Risk is more important than Factor 2, Past Performance
+Achieve a rating of Technically Acceptable or higher
+Have a Past Performance rating of at least Neutral Confidence
+Identify any assumptions that may impact price in the quote
+Ensure the quote is complete, clear, and compliant with the RFQ terms
+Provide a proposed plan for overall implementation and execution of the specified requirements of the PWS
+Align with the Instructions to the Quotation in RFQ section 3
+Provide a Career Development and Counseling Plan (CDCP) based on PWS section 2.3.1
+Include proposed methods for conducting and utilizing mid-point assessments and stakeholder surveys as detailed in PWS section 2.3.1.2
+Compliance Requirements:
+
+- Ensure the quote complies with the content requirements in PWS Section 2.3.2.1
+- Provide innovative approaches to career path development within ARPA-H's organizational framework
+- Demonstrate a practical approach to aligning individual career aspirations with ARPA-H's mission and operational needs
+- Address the Outplacement Services Framework requirements in PWS Section 2.3.5.1
+- Design and implement effective training programs supportive of ARPA-H's requirements
+- Adhere to the requirements of PWS Section 2.3.3.2 and the Proposed Customize Training Framework Guide
+- Meet the Leadership Coaching Framework requirements specified in PWS Section 2.3.4.1
+- Manage the project according to the PMP, addressing the requirements in PWS Section 2.3.3.1
+- Include a strategy for continuous improvement and innovation as detailed in PWS Section 2.3.3.2
+- Provide a Quality Control and Management Oversight Plan as outlined in PWS Sections 2.3.3.4 and 2.5.1
+- Implement quality assurance procedures to ensure contract quality and management oversight.
+Include a Contingency Plan addressing contract contingencies, excusable delays, business disruptions, and potential service interruptions as per PWS Sections 2.3.3.8
+Provide detailed information on Technical Capabilities/Risk assessment, including identification, mitigation, and management of risks
+Demonstrate corporate experience working with ARPA organizations or start-up companies
+Submit plans, strategies, or frameworks with sufficient detail for evaluation, even if not final
+Use the combined technical/risk rating for evaluation
+Refer to Table 4.2.2 for the technical capability/risk rating scale
+Ensure the quote demonstrates an exceptional approach and understanding of the requirements
+Contain multiple strengths in the proposal
+Ensure the risk of unsuccessful performance is low
+Provide a quote that demonstrates a thorough approach and understanding of the requirements
+Include at least one strength in the quote
+Ensure the risk of unsuccessful performance is low to moderate
+Quotes must meet requirements and show an adequate approach and understanding of the requirements
+Risk of unsuccessful performance should be no worse than moderate
+Quotes rated as Marginal or Unacceptable will be ineligible for award
+Avoid any significant weaknesses in the quote that increase the risk of unsuccessful contract performance
+Ensure there are no deficiencies in the quote that fail to meet a Government requirement or significantly increase the risk of unsuccessful contract performance
+Include strengths in the quote that exceed specified performance or capability requirements to the advantage of the Government
+Consider the recency, relevancy, and quality of past performance data when evaluating the Past Performance factor
+Ensure that the work has been completed or at least 25% completed within the last three years from the quote due date
+Government will assess the relevance of recent efforts accomplished by the Vendor
+Ensure the proposal exhibits similar work required by the RFQ
+Provide past performance information as detailed in the PWS
+Include past performance questionnaires and references
+Do not compare past performance references directly to other vendors
+Address any negative past performance under prior contracts
+Vendors without recent or relevant past performance will receive a neutral confidence rating
+Contracts will be rated for recency as Recent or Not Recent
+Ensure that performance references are within the last three (3) years from the quote due date
+Exclude any past performance references that are not recent
+Provide a minimum of three (3) performance references within the last three (3) years from the quote due date
+Provide a past performance rating in accordance with FAR 15.305(a)(2)(iv)
+Assign a relevancy rating to the vendor's past performance
+Determine the overall confidence rating based on past performance
+Submit one overall confidence assessment rating for each vendor based on past performance quote
+- Quotes must have a satisfactory confidence rating based on recent/relevant performance
+- Quotes with a confidence rating less than Neutral will be ineligible for award
+- The total price for all options must be added to the total price for the basic requirement
+- Option prices should not be significantly unbalanced
+- The evaluation of options does not obligate the Government to exercise the option(s)
+- The six-month option to extend the contract term will be evaluated by averaging the total base and option prices and adding 50% of the average annual price to the total evaluated price for each offeror
+- The not to exceed Other Direct Cost estimate will be added to all price quotes
+- The Vendor's price quote must be fair and reasonable according to FAR 13.106-3 Award and Documentation
+Award the contract to the Vendor that offers the best value to meet the Government's needs
+Follow the criteria and evaluation mechanisms in Section 4.2
+- The potential awardee must be determined responsible in accordance with FAR 9.104
+- Document the general standards for determining responsibility in a Responsibility Determination
+- Ensure adequate financial resources to perform the contract or the ability to obtain them
+- Comply with the required or proposed delivery or performance schedule
+- Maintain a satisfactory performance record
+- Demonstrate a satisfactory record of integrity and business ethics
+- Possess the necessary organization, experience, accounting and operational controls, and technical skills
+- Have the necessary production, construction, and technical equipment and facilities
+- Be otherwise qualified and eligible to receive an award under applicable laws and regulations
+- Provide all required financial information
+- Have an Active SAM registration
+- Failure to provide financial information may result in proposal being deemed non-responsive
+- Mitigation strategies for adverse findings will be considered
+- If not responsible or lacks an active SAM registration, may be referred to SBA for a COC
+- If COC is denied, the next highest rated offer will be considered for award
+Incorporate all provisions and clauses in the solicitation
+Include any tailored clauses specific to the awarded Vendor
+Incorporate one or more clauses by reference
+Ensure the solicitation document and incorporated provisions are in effect through Federal Acquisition Circular 2023-04 effective June 02, 2023
+Compliance Requirements:
+- Comply with the FAR and HHSAR provisions listed
+- Include the clauses 52.204-7, 52.204-16, 52.204-24, 52.209-7, 52.212-1, 52.212-3, 52.217-5, 52.233-2, and 52.252-1 in the proposal
+- Serve protests directly to the Contracting Officer within one day of filing with the GAO
+Identify and complete any blocks required by the offeror
+Access the full text of solicitation provisions electronically at www.acquisition.gov
+Comply with the following FAR clauses:
+- 52.203-3 Gratuities (APR 1984)
+- 52.203-12 Limitation on Payments to Influence Certain Federal Transactions (JUN 2020)
+- 52.204-13 System for Award Management Maintenance (OCT 2018)
+- 52.204-18 Commercial and Government Entity Code Maintenance (AUG 2020)
+- 52.204-21 Basic Safeguarding of Covered Contractor Information Systems (Nov 2021)
+- 52.212-4 Contract Terms and Conditions —Commercial Items (DEC 2022)
+- 52.223-2 Affirmative Procurement of Biobased Products Under Service and Construction Contracts (Sep 2013)
+- 52.223-17 Affirmative Procurement of EPA-Designated Items in Service and Construction Contracts (Aug 2018)
+- 52.232-33 Payment by Electronic Funds Transfer – System for Award Management (Oct 2018)
+- 52.232-40 Providing Accelerated Payments to Small Business Subcontractors (Nov 2021)
+- 52.252-6 Authorized Deviations in Clauses (NOV 2020)
+Ensure compliance with FAR Clause 52.212-5, Contract Terms and Conditions Required To Implement Statutes or Executive Orders—Commercial Products and Commercial Services (Dec 2023) and the clauses it references.
+Restrictions on subcontractor sales to the government (Nov 2021)  
+Contractor employee whistleblower rights (Nov 2023)  
+Prohibition on requiring certain internal confidentiality agreements or statements (Jan 2017)  
+Reporting executive compensation and first-tier subcontract awards (Jun 2020)  
+Service contract reporting requirements (Oct 2016)  
+Prohibition on contracting for hardware, software, and services developed or provided by Kaspersky Lab and other covered entities (Nov 2021)  
+Prohibition on contracting for certain telecommunications and video surveillance
+None
+Estimate the percentage of recovered material content for EPA designated items
+Acquire EPEAT®-Registered Imaging Equipment
+Acquire EPEAT®-Registered Televisions
+Ensure energy efficiency in energy-consuming products
+Implement policies to ban text messaging while driving
+Comply with restrictions on certain foreign purchases
+Promote excess food donation to nonprofit organizations
+Provide accelerated payments to small business subcontractors
+Follow the protest procedures after award
+Adhere to applicable law for breach of contract claim
+Make payments to small business subcontractors
+- The contractor must cooperate in Equal Employment Opportunity investigations
+- Payment requests must be submitted electronically
+- Ensure electronic and information technology accessibility
+- Do not obligate the government to purchase supplies or services under $5,000
+- Do not honor orders exceeding $2,000,000 for a single item
+- Do not honor orders exceeding the total value of the resultant IDIQ for a combination of items
+- Do not honor a series of orders within 30 days that exceed the limitations
+- Do not require the government to order a part of any requirement that exceeds the maximum order limitations
+- Honor any order exceeding the maximum limitations unless returned within 1 day with written notice of intent not to ship
+- This is an indefinite-quantity contract
+- Delivery or performance must be authorized by orders issued in accordance with the Ordering clause
+- Provide supplies or services specified in the Schedule up to the maximum quantity
+- The Government must order at least the minimum quantity specified in the Schedule
+- There is no limit on the number of orders that may be issued
+- Complete any order issued during the contract's effective period within the specified time
+- The total extension of performance shall not exceed 6 months
+- The CO may exercise the option to extend services within 30 days prior to the contract end date
+- The Government may extend the contract term by written notice within 15 days
+- The total duration of the contract, including options, shall not exceed 66 months
+Upon request, the Contracting Officer will provide the full text of the clause
+Access the full text of a clause electronically at www.acquisition.gov
+None

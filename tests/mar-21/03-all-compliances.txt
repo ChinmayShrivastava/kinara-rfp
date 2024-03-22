@@ -1,0 +1,90 @@
+- Provide the mailing address of the authorized government representative
+- Include the date and signature of the authorized government representative
+- Include the S/R voucher number, S/R account number, and check number for payment
+- Provide the e-mail of the authorized government representative
+- Include the total number of containers received, date received, location received at, and name of the person who received it
+- Include the date, signature, and title of the certifying officer
+Include the telephone number and printed name/title of the authorized government representative
+Adhere to FAR (48 CFR) 53.110
+- Provide a Material (T&M) CLIN with a 'Not to Exceed' amount of $20,000 per year
+- Specify the Period of Performance as 07/01/2025 to 06/30/2026
+- Specify the Period of Performance for Task 1, 2, and 6 as 07/01/2026 to 06/30/2027
+- Specify the cost for a specific training program per employee per month in each sub-CLIN
+- Submit quotes according to the Quote Submission section
+- Follow the Quote Format guidelines for submission
+- Include technical capability and risk assessment in Volume I
+- Include price quotes in Volume III
+Follow instructions for quote submission in Section 3
+- Ensure adherence to FAR subpart 13.5 for Simplified Procedures for Certain Commercial Products and Commercial Services
+- Vendors must state their size standard at the time of quote submission
+- Vendors must disclose any actual or potential Organizational Conflict of Interest (OCI) to ARPA-H in accordance with FAR subpart 9.5
+- Disclosure of OCI may be made via memo on Vendor company letterhead and included under a separate tab in Volume I of the Vendor's quote
+- Do not use, disclose, or reproduce Personally Identifiable Information (PII) without authorization
+All Vendor personnel with access to ARPA-H personnel usage data must sign a Certificate of Non-Disclosure
+Follow Quotation Instructions in RFQ Section 3.5 Volume IV for any exceptions to data rights
+Ensure electronic copies are received by the designated closing time and date
+Attachments must be in Adobe Acrobat format
+- Submit attachments in Adobe Acrobat/.pdf file format
+- Ensure email size is no more than 10 MB
+- Identify RFQ Number and Closing Date and Time on all electronic correspondence
+Submit electronic quotes by April 15th, 2024, 4:00 PM EDT
+Do not submit quotes via facsimile
+Submit quotes by the specified date
+Provide a pricing schedule with the following details:
+- Reimburse all approved travel in accordance with PWS section 2.16.2 using CLIN 1005
+Follow the format and content specified for responding to the RFQ
+Submit a quote that clearly describes the response to the RFQ requirements
+Acknowledge receipt of any amendments to the RFQ by submitting a signed SF30
+Submit quotes electronically via email to Acquisitions@ARPA-H.GOV
+Include "VENDOR NAME Quote for RFQ 75N992-24-Q-00001 Career Lifecycle Management Support Service" in the subject line of the email
+Ensure quotes are received by the closing date and time specified in the RFQ section 1.11 Quote Submission
+Show the RFQ number, name, address, email address, and telephone number on the first page of the quote
+Include a statement agreeing to all terms, conditions, and provisions in the RFQ
+Provide names, titles, signatures, telephone, and electronic addresses of authorized negotiators
+Submit quotes and any modifications to the designated Government office by the specified time in the RFQ
+Submit quotes in four separate volumes: Technical Capability/Risk, Past Performance, Price Quote, Contract Documentation
+Do not include pricing data in the Non-Price Volume or transmittal letter
+Follow the specified page limits for each volume
+Use 8.5 by 11 inches or 11 by 8.5 inches page size
+Use single-spaced, 11-point font for text, 10-point font for specific elements
+Use a font size of at least 5 point for charts, graphs, and figures/diagrams
+Maintain 1-inch margins on the top, bottom, and sides of every page
+Number pages sequentially by volume
+Apply page format restrictions to responses to clarifications or additional requests for information
+Exclude cover pages, table of contents, cross-reference matrix, tabs, and glossaries from page count
+- Do not include pricing information in Volume I
+- Provide an introduction (1 page maximum) summarizing key aspects of the proposal
+- Include Section 1 on Employee Development and Career Management Support (6 pages maximum)
+- Submit a Career Development and Counseling Plan (CDCP) as described in PWS section 2.3.1.1
+- Present a Career Alignment Strategy as outlined in PWS Section 2.3.2.1
+- Include an Outplacement Services Framework according to PWS section 2.3.5.1
+Submit a Customized Training and Leadership Coaching plan within 6 pages
+- Identify the Contract Manager (CM) and Performer Program Manager (PPM) with contact information
+Limit past performance descriptions to one page per reference
+- Use the provided Price Quotation Worksheet to provide a firm fixed price for all services described
+Include a signed letter stating any exceptions to the Government's requirements or accepting all terms and conditions of the solicitation
+Provide names, titles, signatures, telephone, and electronic addresses of authorized negotiators
+Submit a copy of the Vendor's active Reps and Certs for Commercial Products and Commercial Services
+Sign the SF 1449 form for Commercial Items
+Sign the SF 30 form for Amendments to RFQs
+Confirm valid and active System for Awards Management Registration (SAM) with expiration date and intent to renew and maintain registration during the contract performance period
+Submit the proposal in accordance with FAR Subpart 13.5
+Ensure the quote adheres to submission guidelines in section 3 of the RFQ
+Quotes that fail to adhere to guidelines may be eliminated from consideration
+Ensure the quote is complete, clear, and compliant with the RFQ terms
+Include proposed methods for conducting and utilizing mid-point assessments and stakeholder surveys as detailed in PWS section 2.3.1.2
+- Ensure the quote complies with the content requirements in PWS Section 2.3.2.1
+- Address the Outplacement Services Framework requirements in PWS Section 2.3.5.1
+- Provide a Quality Control and Management Oversight Plan as outlined in PWS Sections 2.3.3.4 and 2.5.1
+Include a Contingency Plan addressing contract contingencies, excusable delays, business disruptions, and potential service interruptions as per PWS Sections 2.3.3.8
+Use the combined technical/risk rating for evaluation
+Provide a minimum of three (3) performance references within the last three (3) years from the quote due date
+Provide a past performance rating in accordance with FAR 15.305(a)(2)(iv)
+Submit one overall confidence assessment rating for each vendor based on past performance quote
+- Quotes with a confidence rating less than Neutral will be ineligible for award
+- Failure to provide financial information may result in proposal being deemed non-responsive
+Incorporate all provisions and clauses in the solicitation
+- Include the clauses 52.204-7, 52.204-16, 52.204-24, 52.209-7, 52.212-1, 52.212-3, 52.217-5, 52.233-2, and 52.252-1 in the proposal
+- Serve protests directly to the Contracting Officer within one day of filing with the GAO
+Ensure compliance with FAR Clause 52.212-5, Contract Terms and Conditions Required To Implement Statutes or Executive Orders—Commercial Products and Commercial Services (Dec 2023) and the clauses it references.
+- Payment requests must be submitted electronically
