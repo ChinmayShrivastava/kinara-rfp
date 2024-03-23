@@ -30,6 +30,20 @@ class RFPActions:
     def initializing(self):
         print("Initializing")
 
+    def get_relevant_chunks(self, key: str) -> List[str]:
+        query_dispatch = {
+            "rfp_info": "Any and all information that can be used to identify the RFP, such as the title, the issuing organization, the issuing date, the deadline, etc.",
+            "important_dates": "Any and all information that can be used to identify important dates, such as the deadline, the date of the announcement, etc.",
+            "eligibility": "Any and all information that can be used to identify eligibility criteria",
+            "submission": "Any and all information that can be used to identify submission requirements",
+            "evaluation": "Any and all information that can be used to identify evaluation criteria",
+            "compliances": "Any and all information that can be used to identify compliances",
+        }
+        query = query_dispatch[key]
+        chunks = self.annotator.get_relevant_chunks(query)
+        # each chunk is a whole page
+        return chunks
+
     def page_annotation(self):
         self.annotator.run_extraction_pipeline()
         currentstate = self.state_manager.get_current_state()
@@ -44,6 +58,8 @@ class RFPActions:
         )
         for chunk in chunks:
             info.extend(e.invoke(chunk))
+        current_state = self.state_manager.get_current_state()
+        current_state.metadata["rfp_info"] = info
 
     def important_dates(self):
         chunks = self.get_relevant_chunks('important_dates')
@@ -53,6 +69,8 @@ class RFPActions:
         )
         for chunk in chunks:
             dates.extend(e.invoke(chunk))
+        current_state = self.state_manager.get_current_state()
+        current_state.metadata["important_dates"] = dates
 
     def eligibility(self):
         print("Extracting eligibility info")
