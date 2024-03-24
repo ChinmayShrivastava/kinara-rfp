@@ -1,6 +1,6 @@
 from python_state_manager import StateManager
-from actions.rfpactions import RFPActions
-from state.rfpstate import Callbacks, statemetadatas, statevalues
+from rfpextractor.actions.rfpactions import RFPActions
+from rfpextractor.state.rfpstate import Callbacks, statemetadatas, statevalues
 
 
 class DocExtraction(RFPActions):

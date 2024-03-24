@@ -1,0 +1,64 @@
+REQUEST FOR QUOTATION<>13<>14
+RFQObjectives<>13<>13
+RFQOr ganization<>13<>13
+Use of Simplified Acquisition Procedures<>13<>14
+North American Industry Classification System (NAICS)<>13<>13
+Small Business Set-Aside<>14<>14
+Conflict Of Interest<>14<>14
+Government Rights<>14<>14
+1.5.1 Award<>14<>14
+1.5.2 No Award<>15<>15
+1.6 Quote Preparation Cost<>15<>15
+1.7 RFQ Points Of Contact<>15<>15
+1.8 Privacy Act Requirements<>15<>15
+1.9.1 Non-Disclosure Agreement<>16<>16
+1.10 Rights In Data<>16<>16
+1.11 Quote Submission<>16<>16
+1.12 Schedule<>18<>18
+PRICING CONTRACT LINE ITEM NUMBER (CLIN) DESCRIPTIONS<>20<>20
+SECTION 2 – PERFORMANCE WORK STATEMENT (PWS)<>22<>22
+SECTION 3 – VENDOR QUOTATION INSTRUCTIONS<>22<>23
+- General<>22<>22
+- Amendments to the RFQ<>22<>22
+- Quote Format<>23<>23
+- Page Layout and Type Formatting<>23<>23
+Volume I/Factor 1- Technical Capability/Risk<>23<>23
+Volume II/ Factor 2 –Past Performance<>25<>28
+- Recency and Relevancy of Prior Contracts<>26<>26
+Volume III/Factor 3 - Price Quote<>26<>26
+Volume IV –Contract Documentation<>26<>26
+SECTION 4 –EVALUATION FACTORS AND AWARD PROCESS<>28<>28
+Evaluation Criteria<>28<>28
+Evaluation Factors<>28<>28
+Best Value- Trade-Off Evaluation<>29<>29
+Evaluation of Factor 1: Technical Capability/Risk<>29<>29
+Technical Capability/Risk rating scale<>31<>31
+Past Performance Rating Method<>33<>33
+Past Performance Recency rating scale<>33<>33
+Past Performance Relevancy rating scale<>34<>34
+Table 4.2.3.3 Past Performance Confidence Assessment rating scale<>34<>34
+Evaluation of Factor 3: Price<>35<>35
+Basis for Award<>35<>35
+Responsibility Determination<>35<>35
+SECTION 5 –SOLICITATION PROVISIONS AND CONTRACT CLAUSES<>37<>37
+SECTION 6- ATTACHMENTS AND EXHIBITS<>42<>42
+Table 6.1 Attachments and Exhibits<>42<>42
+SOLICITATION NUMBER 75N992-24-Q -00001<>13<>13
+SECTION 1 – REQUEST FOR QUOTATION<>13<>13
+1.1 RFQ Objectives<>13<>13
+Firm Fixed -Price (FFP) and Time and Materials (T&M) Single Award Indefinite Delivery Indefinite Quantity (IDIQ)contract<>1<>1
+NAICS code 611430,Professional and Management Development Training<>1<>1
+Period of performance<>1<>1
+Base period<>1<>1
+Option periods<>1<>1
+Contract extension under FAR c lause 52.217- 8<>1<>1
+All or none requirement<>1<>1
+RFQ Organization<>1<>1
+FAR 12.6 Streamlined Procedures for Evaluation<>1<>1
+Section 1<>5<>5
+Section 2<>6<>6
+Section 3<>7<>8
+Section 5: Contains solicitation Provisions and Contract Clauses<>9<>9
+Section 6: Contains RFQ Attachments and Exhibits<>10<>10
+Use of Simplified Acquisition Procedures<>11<>11
+North American Industry Classification System (NAICS)<>11<>11
