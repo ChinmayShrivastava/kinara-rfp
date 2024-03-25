@@ -47,9 +47,9 @@ class RFPActions:
     def get_relevant_chunks(self, key: str) -> List[str]:
         query_dispatch = {
             "rfp_info": "Any and all information that can be used to identify the RFP, such as the title, the issuing organization, the issuing date, the deadline, etc.",
-            "important_dates": "Any and all information that can be used to identify important dates, such as the deadline, the date of the announcement, etc.",
+            "important_dates": "Important dates",
             "eligibility": "Any and all information that can be used to identify eligibility criteria",
-            "submission": "Any and all information that can be used to identify submission requirements",
+            "submission": "Any and all instructions relating to submissions and document format",
             "evaluation": "Any and all information that can be used to identify evaluation criteria",
             "compliances": "Any and all information that can be used to identify compliances",
         }
@@ -70,10 +70,10 @@ class RFPActions:
         self.logger.info("Extracting RFP info")
         chunks = self.get_relevant_chunks('rfp_info')
         rfp_info_schema = {
-            "title": "Title",
-            "issuing_organization": "Issuing Organization",
-            "unique_id": "Unique ID",
-            "url": "URL",
+            "title": "None",
+            "issuing_organization": "None",
+            "unique_id": "None",
+            "url": "None",
         }
         prompt = RFP_INFO_PROMPT.format_map(
             SafeDict(schema="\n".join([f"{k}: {v}" for k, v in rfp_info_schema.items()]))
@@ -93,10 +93,10 @@ class RFPActions:
         self.logger.info("Extracting important dates")
         chunks = self.get_relevant_chunks('important_dates')
         important_dates_schema = {
-            "deadline": "Deadline",
-            "announcement_date": "Announcement Date",
-            "submission_start_date": "Submission Start Date",
-            "submission_end_date": "Submission End Date",
+            "deadline": "None",
+            "announcement_date": "None",
+            "submission_start_date": "None",
+            "submission_end_date": "None",
         }
         prompt = IMPORTANT_DATES_PROMPT.format_map(
             SafeDict(schema="\n".join([f"{k}: {v}" for k, v in important_dates_schema.items()]))

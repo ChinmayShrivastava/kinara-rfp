@@ -31,6 +31,24 @@ class DocExtraction(RFPActions):
                     print("Extraction complete")
                     break
 
+    async def run_async(self):
+        self._run_extraction_pipeline_async()
+
+    async def _run_extraction_pipeline_async(self):
+        while not self.complete:
+            try:
+                currentstateid = self.state_manager.get_current_state().stateid
+                ### Perform actions here ###
+                await self.callbacks(self, currentstateid, "entry")
+                ######
+                # complete stage
+                self.state_manager.complete_state()
+            except:
+                self.complete = self.state_manager.is_finished()
+                if self.complete:
+                    print("Extraction complete")
+                    break
+
 if __name__ == "__main__":
     pdf_path = "egsearch.pdf"
     # pdf_annotator = PDFAnnotator(pdf_path)
